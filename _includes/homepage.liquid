@@ -4,7 +4,7 @@
       {{ content }}
       <h2 class="category">Posts <small><a href="/feed.xml">[rss]</a></small></h2>
       <ul class="posts">
-        {% for post in collections.posts reversed %}
+        {% for post in collections.posts %}
         <li class="post">
           <span class="post-title">
             {% if post.data.externalLink %}
