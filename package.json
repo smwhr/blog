@@ -1,0 +1,21 @@
+{
+  "author": "Julien Zamor / smwhr (julienzamor@gmail.com)",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0"
+  },
+  "scripts": {
+    "build": "eleventy && npm run sass",
+    "serve": "concurrently 'eleventy --serve' 'npm run sass:watch'",
+    "sass": "sass styles/:_site/styles/",
+    "sass:watch": "npm run sass && npm run sass -- -w",
+    "clean": "rm -rf _site",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "concurrently": "^6.0.0",
+    "eleventy-xml-plugin": "^0.1.0",
+    "sass": "^1.32.12"
+  }
+}
