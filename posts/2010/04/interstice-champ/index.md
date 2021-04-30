@@ -1,0 +1,12 @@
+---
+title: "Interstice (champ)"
+date: "2010-04-01"
+---
+
+Ma journée est une succession de courts moments de concentration. Sur un sujet puis un autre. Twitter, mes mails, mon code, mes mails, mon code, ma playlist, mon code, mes mails, twitter. Mon esprit est une file d'attente de micro-tâches à accomplir sans ordre particulier, on verra bien à la fin si ça donne quelquechose.
+
+Et puis vient la vibration, celle de mon téléphone. Dans ma poche ou sur mon bureau. Je lis son nom et alors le brouhaha cesse alentour. Je suis dans une bulle d'ouate, coupé du monde extérieur. Je ne pense plus qu'à elle, amour intersticiel au milieu de toutes ces choses à faire auxquelles la société me fait donner davantage d'importance. Je descends au parking, chercher la voiture qui n'en sort jamais, je passe la prendre, elle insiste pour conduire, je ne cherche pas à argumenter. J'aime bien la regarder conduire, concentrée sur la route, elle ne pense pas à moi, pas la peine, je suis juste là, elle semble heureuse. De l'autre côté de son profil le paysage défile, au loin, devant, on croit deviner la mer ; en fait, on ne devine rien d'autre que l'asphalte de l'autoroute. Il fait déjà nuit quand on arrive, on est partis trop tard, heureusement il reste encore une chambre dans ce petit hôtel à la devanture jaune, à l'extrémité ouest de la plage. Une chambre avec un petit balcon et une vue sur la mer. Mais on ne voit rien encore, la lune est noire ou alors le temps s'est couvert. Je pourrais regarder twitter pour le savoir, puis je me rappelle que je ne suis personne dans ce coin de France. Et puis je maudis mon aliénation mentale aussi. Je rejoins le lit mou, les draps amidonnés et repassés qui sentent la grand-mère de province. Elle a laissé la porte de la salle de bain ouverte pour me parler, mais on ne dit rien. Je la regarde se démaquiller en petite culotte, d'un geste simple, expert, elle anihile ses artifices un à un. Elle tourne ses yeux de chat et sa petite moue vers moi pour me dire
+
+\- Julien ? Ce n'est pas sa voix. Je me retourne. Mon collègue vient de m'interpeler. J'ai mon téléphone entre mes mains. Je lui fais signe que je suis à lui dans une seconde. Je compose un message rapidement pour lui signifier qu'elle me manque. Je l'envoie. L'intermède est terminé. Il ne se reproduira plus de la journée ou plus tard peut-être, pour me tirer brièvement d'un restaurant bondé. Incertitude.
+
+\- Oui, tu voulais ?

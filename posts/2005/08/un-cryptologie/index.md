@@ -1,0 +1,29 @@
+---
+title: "Un-cryptologie"
+date: "2005-08-27"
+---
+
+Il est rare de rencontrer des gens qui aiment réellement lire en anglais. Cela est sûrement dû au fait que jusqu'à présent, du moins à partir de l'instant où j'ai découvert que je connaissais suffisament de mots pour arriver à saisir toute l'essence d'un _Harry Potter and the Order and Phenix_ sans requérir l'usage systématique d'un verre d'eau et de cachets de paracétamol (Dafalgan en général), toute cette période disais-je donc, je n'ai côtoyé, dans la majorité, que des scientifiques introvertis ayant abandonné il y a bien longtemps, ce qui est fort dommage à cet âge, toute idée d'imagination, d'interprêtation inventive, pour ne plus comprendre que les raisonnements complets, incapables de, comme disait mon ami John Keats (cité dans _Les Royaumes du Nord_ de Pullman et dans _Hypérion_ de Simmons, je n'ai jamais lu Keats) "être dans l'incertitude, le mystère et le doute en oubliant l'exaspérante quête de la vérité et de la raison".
+
+Enfin, c'est d'abord une volonté de curiosité dans mon cas : j'étais tranquillement allongé à proximité de la piscine, à l'intérieur évidemment, l'air ambiant maintenu à la température constante de 74 °F, le soleil frappant mon absence de muscle au niveau des bras et des jambes, quand je me suis dit qu'il serait franchement dommage que je rentre en France sans avoir lu ce que mes compatriotes exclusivement francophones ne pourraient découvrir que plus de deux mois plus tard (en l'occurence que Sirius Black allait disparaître de façon peu orthodoxe de notre monde, littéralement. Désolé pour ceux qui auraient deux ans de retard et qui ne sauraient pas non plus que Dark Vador est bien le père de Luke Skywalker.)
+
+Ensuite évidemment, face à une phrase infâme telle que : «_The hottest day of the summer so far was drawing to a close and a drowsy silence lay over the large, square houses of Privet Drive._'», il faut aimer suffisament Harry Potter et avoir le courage suffisant pour ne pas s'arrêter à un "_so far_" dont on ne sait trop à quoi il se rapporte. C'est à cet instant précis que la capacité que j'oserais qualifier de Keatsienne entre en jeu. Il faut, que, face à ce "_so far_" immonde, la réaction immédiate soit "Je m'en fous de ce _so far_, lisons la phrase jusqu'au bout". Arrivé au bout de la phrase en ayant évidemment sauté au passage _drowsy_ et peut-être _drawing to a close_ pour les moins doués d'entre vous, on a, relativement vaguement mais on a quand même saisi le sens de la phrase et on se rend compte que notre _so far_ de tout à l'heure, il a été complètement oublié. De manière générale, il est assez peu fréquent que deux mots de moins de trois lettresinluent à ce point sur une histoire surtout quand il s'agit d'Harry Potter.
+
+Normalement, j'aurais du intercaler un paragraphe entre le précédent et celui qui le précède où je racontais l'enfer que l'on vit lorsque l'on a le malheur de recommander à une pétasse ou à un abruti de lire en anglais. Mais je le fais maintenant, sachez juste que la réponse et la solution se tiennent dans le paragraphe juste au-dessus.  
+— Dommage qu'on soit obligé d'attendre octobre...  
+— Tu n'as qu'à le lire en anglais ! Je te le prête, je l'ai fini.  
+— Mais je suis nulle en anglais !  
+— Tu sais, c'est Harry Potter, pas Hamlet !  
+— Mais il y a plein de mots que je ne comprends pas !  
+— Ca n'a aucune importance, l'essentiel, c'est le sens du texte, que tu es tout à fait capable d'interprêter...  
+— Mais ça va me demander un effort, et puis je veux comprendre _tous_ les mots, les savourer...  
+— L'avantage, lorsque tu lis en anglais, c'est qu'il y a des mots que tu peux savourer sans qu'on t'impose un sens...  
+— Comment ça ?  
+— La première fois que tu rencontres un mot que tu ne connais pas, tu l'oublies, souvent, ou tu le remplaces sans y penser par ce que tu penses être son sens. Puis il revient, dans le même contexte ou dans un autre, il commence à rentrer dans ta mémoire. Tu ne sais toujours pas ce qui correspondrait exactement à sa définition dans un dictionnaire, mais il fait désormais parti des mots que tu comprends. Que tu comprends vraiment, parce qu'il est entré insidieusement à l'intérieur de ton esprit, qu'il s'y est fait une place et qu'il n'a aucune raison de déménager, ce sont ces mots là qui font que la lecture dans une langue qui n'est pas la tienne est si agréable, au-delà des contingences scolaires du "j'ai plus de vocabulaire" ou du "j'aurais une meilleure note". Ce sont ces mots là qui font que tu comprendras définitivement l'anglais, que ta volonté d'aller voir les films en VO anglaise ne sera plus un snobisme débile mais une réelle envie d'entendre les dialogues en anglais, voire que tu pourras finalement télécharger toi aussi les épisodes d'Alias avant tout le monde et les regarder avec plaisir.
+
+Lire en anglais me permet finalement d'en profiter davantage, d'être bien plus dans l'ambiance des personnages, la nécessité d'interprêter les scènes, de les visualiser aidant, là où, en français, j'aurais été banalement passif, livre vite ingurgité sans effort et aussitôt oublié, souvenir d'un bout moment trop rapidement écoulé. La barrière de la langue est là l'obstacle qui pimente la lecture. Et surtout, toujours rester dans le rêve, jusqu'au bout, ne pas chercher à traduire, jamais, comprendre seulement.
+
+Et puis, Harry Potter, c'est loin d'être compliqué. Bien moins que :
+
+> Rage.  
+> Sing, O Muse, of the rage of Achilles, of Peleus'son, murderous, man-killer, fated to die, sing of the rage that cost the Acheans so many good men and sent so many vital, hearty souls down to the dreary House of Death. And while you're at it, O Muse, sing of the rage of the god themselves, so petulant and so powerful here on their new Olympos, and of the rage of the post-humans, dead and gone though they might be, and of the rage of those few true humans left, self-absorbed and useless though they may have become.

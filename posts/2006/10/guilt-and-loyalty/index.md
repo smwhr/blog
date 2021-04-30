@@ -1,0 +1,8 @@
+---
+title: "Guilt and Loyalty"
+date: "2006-10-19"
+---
+
+Alors que j' _idle_ tranquillement derriere mon comptoir du service informatique, en attendant qu'une jolie americaine blonde platine ne vienne me demander de faire un _reset_ de son _password_ (quatre deja ce matin), je contemple mes taglines, ces sortes de devises qui peuplent les dessous du titre de cette page et qui ont depuis le debut de la vie de ce blog ont ete au nombre astronomique de deux (a savoir le "_My loyalties are flexible_" de Sark dans Alias (Saison 2, Episode 22) et le "_Guilt isn't one of my driving emotions_" de Peyton (toujours dans Alias, Saison 5, Episode 7) qui orne actuellement le bord de Seine du haut de page) en me demandant si je ne pourrais pas faire un billet a leur sujet.
+
+Quelquechose ou l'on parlerait de la mechancete gratuite qui n'est que betise, de l'hypocrysie comme valeur assumee, de la philosophie de ce blog en me demandant si je le fais pour y etre moi ou pour en faire une vitrine de moi et des facteurs qui y contribuent, comme les lecteurs proches, ceux qui ne le lisent pas, ceux qui le liront un jour et ceux qui ne doivent jamais y acceder, a qui puis-je donner l'adresse et pour chacun une reflexion sur les consequences que cela impliquera, de savoir si je suis tel que m'imagine, pire en mieux, pire en pire ou mieux en pire, un billet ou je dirais que je suis celui qui laisse son ordinateur une heure sans surveillance a la bibliotheque malgre une absence totale de confiance en le genre humain, ou je m'interrogerais sur l'utilite d'un tel billet et le ridicule qu'il est susceptible de creer...

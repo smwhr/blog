@@ -1,0 +1,14 @@
+---
+title: "Les jours d'ennui profond"
+date: "2009-07-12"
+---
+
+Je peux voir les jours d'ennui profond du français moyen qui lit des blogs sur mes stats. Là par exemple, aujourd'hui, j'ai eu plus de visiteurs que le jour où j'ai posté le dernier article (probablement le pire que j'ai jamais écrit depuis que je sais faire des "r" avec les deux boucles (1990)). Alors qu'il fait très beau et que les gens feraient mieux d'aller au parc Monceau traînasser sur l'herbe. Ce que beaucoup avaient décidés de faire en fait. On avait un chien avec nous alors on est allés boire des Coca® à quatre euros quatre-vingt en terrasse au soleil. Il est dix-neuf heure vingt-quatre, ma journée est probablement terminée.
+
+Mon agent immobilier personnel n'a pas validé mon choix préliminaire d'appartements, donc, alors que je pensais être en finale, je n'en suis qu'aux qualifications. Je relance donc un appel dans l'immensité intergalactique : si vous avez 45m² à louer pour 700€ avec du chauffage central sans vis-à-vis dans un quartier où les filles portent des franges faîtes de leurs longs cheveux bruns (c'est un gage de qualité indéniable d'un quartier la présence de ce genre de filles), je suis votre homme. J'ai même mes trois derniers bulletins de salaire déjà photocopiés en sept exemplaires. Et venez pas me fatiguer avec des remarques du genre "ouais, en banlieue pour le même prix j'ai trois fois la surface", j'ai pas envie d'habiter en province et je n'ai pas mon permis. Ni aucune intention de le passer. Jamais. Sérieusement. Mais c'est un autre débat.
+
+À l'UGC Ciné-Cité des Halles, la manager, une rousse avec des tâches de rousseur, n'a pas le droit de dire son prénom aux clients, je l'ai donc appelé Machine (en fait, je voulais dire Martine parce que ça rime avec Manager (du début) mais ma langue a fourché). La vendeuse à l'étage, au Bert's Café Contemporain, par contre, a le droit, même si c'est vivement déconseillé. Comme je suis sympa, je ne le dévoilerai pas ici. Le film (_Public Ennemies_), [moi, pour ma part, personnellement](http://madeinneverland.canalblog.com/), j'ai trouvé qu'il était [sympa](http://www.o-chateau.com/blog/the-word-sympa/). J'ai un peu de mal avec les films tournés en DV, mais après une petite heure d'adaptation, on finit par croire que tout ça est vrai. Patrick Bateman Christian Bale revient une fois de plus dans un rôle de type dépourvu d'émotion et Jack Sparrow Johnny Depp fait des mimiques drôles en ayant la classe. Marion Cotillard est cute mais c'est pas avec ça qu'elle va gagner un deuxième oscar.
+
+Demain, je fais le pont, mais je dois travailler si je veux. C'est un concept que j'attends avec impatience d'expérimenter.
+
+Et le seize, c'est mon anniversaire. J'aurais "entre vingt en vingt-cinq ans", je ne peux pas être beaucoup plus précis sans avoir à sortir ma carte d'identité pour recalculer mon âge exact. Et cette approximation me satisfait tout à fait.

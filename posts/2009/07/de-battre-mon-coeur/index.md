@@ -1,0 +1,18 @@
+---
+title: "De battre mon cœur"
+date: "2009-07-25"
+---
+
+Encore un site que je ne coderai pas mais dont l'idée traîne sûrement dans l'air et, dans quelques mois, quand quelqu'un l'aura lancé à ma place et sera devenu multi-milliardaire, je me dirais « Ah mince, j'aurai dû. »
+
+En ce moment donc, j'utilise PAP pour trouver un appartement (en fait ma mère, je l'exploite associe au processus de départ). On utilise PAP parce que ma mère, en tant qu'agent immobilier, sait que les agents immobiliers sont des escrocs notoires qui ne servent à rien. Le problème de PAP, c'est d'une part pour celui qui souhaite être locataire et qui se retrouve à appeler en permanence des gens qui ont déjà loués leurs appartements. L'autre, c'est pour le propriétaire qui reçoit entre six et sept mille coups de fil par heure pendant toute la durée de présence de l'annonce sur le site.
+
+Ça m'a fait un peu penser aux sites de rencontre. Ce qui a été reproché à Meetic et qui a propulsé Adopteunmec, c'est le fait de ne pas prendre le marché de l'amour tel qu'il est, mais d'avoir voulu faire un truc relativement égalitaire pour les deux sexes : sur Meetic, être un garçon ou une fille, techniquement, c'est la même chose. Dans les faits, c'est bien différent : bien peu nombreuses sont les filles qui vont envoyer des messages les premières aux garçons qui leur plaise, elles sont bien trop occupées à trier ce qui est arrivé dans leur boîte mail. Sur Adopteunmec, ce comportement est totalement intégré au site, et des outils spécifiques à chacun des sexes (les charmes, l'ajout au panier etc... ) ont été développés.
+
+Le système des petites annonces immobilières fonctionne encore comme si l'offre était supérieure à la demande, que c'était aux propriétaires de se concurrencer les uns les autres. D'ailleurs, typiquement, chez PAP, le futur locataire n'a rien à débourser pour regarder les annonces alors que le propriétaire, lui doit payer pour publier ladite annonce.
+
+L'idée, c'est donc de faire un Adopteunmec de l'immobillier : un endroit, des outils adaptés au marché tel qu'il est et non pas tel qu'il est rêvé. Simplement, un site où les locataires s'inscrivent en mettant ce qu'ils recherchent, des éléments de leur dossier (on peut imaginer un système où le site est un Tiers de Confiance qui certifie les dossiers sans les divulguer à tout le monde : je ne voudrais pas que mes fiches de paie deviennent publique, mais j'accepte de les donner au site pour qu'il puisse assurer au propriétaire que je suis bien un locataire valable) et un contact. Les propriétaires eux, mettent en ligne leurs biens mais ne diffusent leurs coordonnées qu'aux locataires potentiellement interessants (présélection du dossier etc..). Habituellement, c'est quelquechose qui est fait au téléphone : « Et vous gagnez combien ? Ah bah c'est déjà loué... Désolé, au revoir ! », là c'est automatique, ça enlève une charge au propriétaire qui reçoit dès lors beaucoup moins d'appels et donc beaucoup moins de déchets. Le futur locataire en tire également un avantage puisqu'il n'a pas à appeler des numéros où tout est déjà loué, ni à faire la queue avec 25 autres personnes où tout se joue dans une course dans l'escalier. En plus de ça, cela ouvre un marché jusque là inexploité de personnes qui ne veulent pas annoncer publiquement leurs biens. Avec le système ci-dessus, ils peuvent décider de ne l'annoncer qu'auprès d'un nombre restreints d'inscrits sélectionnés anonymement en fonction de critères à définir.
+
+À ça tu rajoutes un système pour gérer tes rendez-vous pour quand t'es dans la rue et que tu sais pas où tu dois aller ensuite. Et normalement, tu trouves un appart en deux-deux.
+
+1\. Make website. 2. ??? 3. PROFIT !

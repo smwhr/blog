@@ -1,0 +1,28 @@
+---
+title: "Entre-deux-tours"
+date: "2017-04-26"
+categories: 
+  - "general"
+---
+
+Je n'ai pris part à aucune altercation politique sur les réseaux sociaux depuis le début de cette campagne présidentielle et si j'ai pu avoir des vélléités de le faire dans la vraie vie, je me suis chaque fois ravisé immédiatement.
+
+Il y a cette théorie que l'on vit dans des bulles, disjointes et peu au fait de ce qu'il se passe dans les autres. À force, ça finit par se vérifier.
+
+Des électeurs de Marine Le Pen, j'en ai rencontré deux ces 8 dernières semaines. Deux. Ils sont un peu plus de 7 millions en France, mais je ne peux en désigner que deux. Le premier était le chauffeur Uber taciture qui m'a ramené chez moi le 26 mars à 5h du matin. Le second est le laveur de vitre jovial qui passe chaque mois mettre un peu de lumière dans le bureau contre un billet de 10 au black.
+
+Des électeurs de Hamon, il suffisait que je propose à n'importe quel de mes amis proches d'aller boire un verre pour être sûr d'en être entouré. Je crois que la violence ressentie face au résultat du PS à 20h dimanche est à la hauteur de la confiance qu'ils portaient dans leur candidat. C'est peut-être de cette bulle que j'ai eu le plus de mal à me détacher. Je n'y croyais pas au milieu de tant de croyants, et je me suis senti jusqu'au bout coupable de ne pas y croire, coupable de céder à la droitisation rampante dictée par mon statut de CSP+ homme blanc chef d'entreprise parisien.
+
+Quant aux électeurs de Mélenchon, j'en ai des dizaines sur mon mur Facebook, mon fil Twitter, mon Instagram. Fervents défenseurs d'une méthode de diabolisation systématique de tout ce qui est à droite de l'extrême-gauche, ils sont, en grande partie, la raison de mon mutisme politique. S'exprimer, c'est s'épuiser. Il n'y a personne à convaincre, ni de mon côté, ni du leur. L'espace de la discussion est occupé par des arguments de plus ou moins bonne foi contre lesquels on ne peut pas grand-chose. Non pas qu'ils soient bons, définitifs ou qu'ils proviennent d'une émanation providentielle de la Vérité ; simplement parce qu'ils recquièrent, si ce n'est d'être à la pointe de l'information, des connaissances en économie ou en sciences politiques que je ne possède pas pour les réfuter. Je n'ai jamais partagé d'affinité avec le Front de Gauche. Mais j'ai un instant cru qu'il pouvait s'imposer. Jusqu'à ce sondage Facebook organisé par LCI durant le débat à 5. Qui donnait Mélenchon favori avec un confortable 72%. Lol.
+
+Des électeurs de Macron, j'en connais 8 qui ont partagé leur intention de vote : J, A, C, P, S, C, B et moi. Un millionième des électeurs de celui qui n'avait pas de parti il y a un an et qui est arrivé premier du premier tour. Est-ce que j'y croyais ? Soyons honnête : pas du tout. Mais quel choix avais-je ?
+
+De Fillon et des autres, je ne connais leurs électeurs que par procuration : des sœurs, des oncles d'amis, des parents de petits amis d'amie. Je les connais, en fait, peut-être même moins que les électeurs du Front National.
+
+Et nous voilà à l'entre deux tours. Et il y a ce débat. Qu'est-ce qui est pire ? Macron ou Le Pen ? En vrai, on sait très bien ce qui est pire. Par contre, sur les réseaux sociaux, ce sont les plus virulents de notre bulle (je ne me fais aucune illusion sur le fait que ce post ne voyagera pas plus loin que la murailles infranchissables de notre bulle) qui continuent à s'agiter. Le peuple des Insoumis truste l'espace de discussion sur la question du report du vote. On ne parle que de ça sur ma timeline et sur mon wall. J'ai vu les plus modérés de mes amis se fendrent de posts de 40 lignes pour défendre Macron face à Le Pen. Le résultat ? Une énumération comparée des pires pathogènes de la planète. Sans rire, j'ai lu tout à l'heure un échange de 7 commentaires (sous un post qui appelait au "débat en termes apaisés") pour savoir si Macron/Le Pen c'était plutôt Peste/Choléra ou Ebola/H5N1 ou Sida/Rhume des foins... « Et moi j'ai remplacé le diabète par des carottes, mes enfants ont adoré. »
+
+En vrai, on sait ce qui est pire. Et puis il y a la réalité des faits : il n'y a pas de troisième candidat en fait. Non, il ne sert plus à rien d'espérer qu'un hologramme vienne s'ériger en solution providentielle. Votez blanc, abstenez-vous si votre conscience refuse de soutenir Emmanuel Macron personnellement parce qu'il vous a volé un Choco BN à la récré.
+
+En attendant, y a plus de Français qui ont trouvé de bonnes raisons de soutenir une fasciste et plus de Français qui ont trouvé de bonnes raisons de soutenir un escroc que de gens pour qui, soutenir que l'économie de marché, c'est kif-kif avec renvoyer les migrants se noyer dans les eaux internationales. Je ne sais pas si c'est une bonne ou une mauvaise chose pour tout dire.
+
+On est au moins 8 à savoir qu'on va voter et pour qui on va voter au second tour. On n'est d'ailleurs pas tous d'accord sur les raisons qui nous poussent à faire ça. On n'a pas tous les mêmes motivations. Mais je crois qu'on le fait par désir et pas par défaut. Parce que ce n'est pas simplement un barrage au pire, c'est croire qu'on peut s'en sortir, que tout le monde peut s'en sortir, sans céder aux désirs bassements nationalistes, sans tout foutre au feu avec l'eau du bain, et en continuant à échanger avec les autres, avec l'ailleurs parce qu'on vit au XXIe siècle et que l'ailleurs, même au plus loin, il est à 119 millisecondes. Donc, peut-être, oui qu'il y a des points spécifiques du programme– pardon, projet de En Marche qui ne me plaisent pas, mais c'est le seul candidat encore en lice qui me laisse entrevoir un "mieux" lucide et serein pour la société. Alors j'irai, à nouveau, voter pour lui.

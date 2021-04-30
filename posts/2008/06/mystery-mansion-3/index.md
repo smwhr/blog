@@ -1,0 +1,8 @@
+---
+title: "Mystery Mansion (3)"
+date: "2008-06-23"
+---
+
+_Fringe_, c'était pas très bon. C'était efficace, c'était un pilote parfait, mais c'était pas très bon. Ceci dit, ça ne m'empêchera pas de regarder le deuxième épisode à la rentrée. Et ce, même si la loi Olivennes tente de m'en empêcher. Je compte d'ailleurs investir dans un serveur proxy quelque part dans une nation n'ayant pas d'accord international de police avec la France et ne réprimant pas la récupération gratuite de matériels copyrightés disponibles sur l'internet convivial multimédia. Ainsi, je téléchargerais inpunément, et sans que l'Etat ne s'en rende compte à moins que la Police ne vienne perquisitionner chez moi **et** que je ne sois justement en train de regarder ou écouter l'un des matériels sus-nommés. Faudrait que je calcule combien de temps ça met pour shredder totalement un fichier...
+
+Dans la séquence d'intro de _Fringe_ (dont on voit les évènements dans le trailer que je vous ai filé l'autre jour, un seul lien YouTube par mois, merci), il y a des gens qui se liquéfient. C'est assez amusant et relativement dégueu. JJ Abrams a du avoir l'idée après s'être lamentablement écorché les mains et le torse en se rétamant en roller parce qu'il ne savait pas freiner. Je pense ça, parce que c'est exactement ce qui m'est arrivé et la paume de ma main gauche a un aspect bien loin d'être appêtissant. C'est cependant amusant, ça me permet d'apprendre comment les différentes couches de la peau se reforment. Là où c'est moins amusant, c'est que je ne peux pas bouger mon pouce sans plisser la plaie, ce qui me tord de douleur. Ok, j'exagère.

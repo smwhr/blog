@@ -1,0 +1,10 @@
+---
+title: "Pluie (1)"
+date: "2007-03-19"
+---
+
+Il pleut sur Washington DC. Je redescend M Street, la capuche rabattue jusque sur le nez, j'essaie d'esquiver les flaques d'eau et les passant trempés. Le tissus de mon imperméable ne devrait plus l'etre d'ici un court moment. Et je meurs de faim. Je releve les yeux un instant, a la recherche d'un restaurant, et cet indien au coin de la 34eme semble m'ouvrir grand ses bras. A deux pas de la porte, une blonde, cheveux frisées, couverte seulement d'un cardigan rouge fume et téléphone. Je rentre.
+
+Il n'y a que tres peu de tables. L'étage est manifestement fermé. On est jeudi soir pourtant... Mais c'est Spring Break pour les étudiants de Georgetown alors M Street se couchera tot ce soir. Au fond a gauche, derriere l'escalier, un footballeur aussi large qu'un refrigérateur a invité une petite brune que je ne vois que de dos, cachée par un autre étudiant portant les couleurs de son université sur un sweat-shirt délavé. Il est seul a sa table, deux couverts sont mis devant lui, il attend probablement la blonde en rouge qui fume a l'exterieur. Non, elle n'est plus devant la vitrine. Derriere moi, un couple plus agé, peut-etre un sénateur et sa femme, ou l'inverse, en retraite dans une petite maison des beaux quartiers, entre celles de Madeleine Albright et de Jacqueline Kennedy. Pres de la vitre qui nous separe de l'humidite de la rue, un groupe d'amis, deux garcons, deux filles, discutent de maniere animée.
+
+Une voix féminine s'éleve derriere moi, qui commande en anglais avec un accent francais a couper au couteau. Je ne peux pas me retourner sans avoir l'air suspect. J'élimine immédiatement de ma liste la sénatrice, la voix sonne jeune. Il reste la petite brune. A moins que le rendez-vous de l'américain esseulé ne soit arrivé pendant que je contemplais la carte. C'est peut-etre pour cela que la blonde a disparu du trottoir, elle est maintenant assise derriere moi. C'est la solution que je retiens : elle fume, elle ne peut qu'etre francaise.

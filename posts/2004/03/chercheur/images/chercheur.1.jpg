@@ -1,0 +1,1543 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<meta charset="UTF-8" />
+
+<!-- page title, displayed in your browser bar -->
+<title>Département de pédiatrie de l&#039;Université de Montréal</title>
+<link rel="icon" href="https://pediatrie.umontreal.ca/wp-content/themes/departements/images/icons/favicon.ico" type="image/x-icon">
+
+<!-- add feeds, pingback and stuff-->
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://pediatrie.umontreal.ca/xmlrpc.php" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<!-- <script src="https://use.fontawesome.com/1744d7b79f.js"></script> -->
+			 <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=yes' /> 
+	        <script  type='text/javascript' >  var googleAnalytic = false;  </script>         <!-- Google Tag Manager -->
+        <script  type='text/javascript' >
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-59JH4NK');
+        </script>
+        <!-- End Google Tag Manager -->
+
+    
+<!-- This site is optimized with the Yoast SEO plugin v12.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="https://pediatrie.umontreal.ca/" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Département de pédiatrie de l&#039;Université de Montréal" />
+<meta property="og:description" content="&nbsp;" />
+<meta property="og:url" content="https://pediatrie.umontreal.ca/" />
+<meta property="og:site_name" content="Département de pédiatrie" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://pediatrie.umontreal.ca/#website","url":"https://pediatrie.umontreal.ca/","name":"D\u00e9partement de p\u00e9diatrie","potentialAction":{"@type":"SearchAction","target":"https://pediatrie.umontreal.ca/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://pediatrie.umontreal.ca/#primaryimage","url":"https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/pour-familles1.jpg","width":295,"height":200},{"@type":"WebPage","@id":"https://pediatrie.umontreal.ca/#webpage","url":"https://pediatrie.umontreal.ca/","inLanguage":"fr-FR","name":"D\u00e9partement de p\u00e9diatrie de l&#039;Universit\u00e9 de Montr\u00e9al","isPartOf":{"@id":"https://pediatrie.umontreal.ca/#website"},"primaryImageOfPage":{"@id":"https://pediatrie.umontreal.ca/#primaryimage"},"datePublished":"2014-10-06T12:42:11+00:00","dateModified":"2017-04-28T16:14:30+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://pediatrie.umontreal.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='layout-css'  href='https://pediatrie.umontreal.ca/wp-content/themes/departements/css/layout.css?ver=2.153' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes-css'  href='https://pediatrie.umontreal.ca/wp-content/themes/departements/css/shortcodes.css?ver=2.153' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-css'  href='https://pediatrie.umontreal.ca/wp-content/themes/departements/css/menu.css?ver=2.153' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://pediatrie.umontreal.ca/wp-content/themes/departements/css/responsive.css?ver=2.153' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://pediatrie.umontreal.ca/wp-content/themes/departements/css/fancybox/jquery.fancybox.css?ver=2.153' type='text/css' media='all' />
+<script type='text/javascript' src='https://pediatrie.umontreal.ca/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://pediatrie.umontreal.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://pediatrie.umontreal.ca/wp-content/themes/departements/js/plugins/jquery.dataTables.min.js?ver=2.153'></script>
+<script type='text/javascript' src='https://pediatrie.umontreal.ca/wp-content/plugins/responsive-menu-pro/public/js/noscroll.js'></script>
+<link rel='https://api.w.org/' href='https://pediatrie.umontreal.ca/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pediatrie.umontreal.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pediatrie.umontreal.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.10" />
+<link rel='shortlink' href='https://pediatrie.umontreal.ca/' />
+<link rel="alternate" type="application/json+oembed" href="https://pediatrie.umontreal.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpediatrie.umontreal.ca%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://pediatrie.umontreal.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpediatrie.umontreal.ca%2F&#038;format=xml" />
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style>button#responsive-menu-pro-button,
+#responsive-menu-pro-container {
+    display: none;
+    -webkit-text-size-adjust: 100%;
+}
+
+#responsive-menu-pro-container {
+    z-index: 99998;
+}
+
+@media screen and (max-width: 767px) {
+
+    #responsive-menu-pro-container {
+        display: block;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+                padding-bottom: 5px;
+        margin-bottom: -5px;
+        outline: 1px solid transparent;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+
+    #responsive-menu-pro-container .responsive-menu-pro-search-box {
+        width: 100%;
+        padding: 0 2%;
+        border-radius: 2px;
+        height: 50px;
+        -webkit-appearance: none;
+    }
+
+    #responsive-menu-pro-container.push-left,
+    #responsive-menu-pro-container.slide-left {
+        transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+        -webkit-transform: translateX(-100%);
+        -moz-transform: translateX(-100%);
+    }
+
+    .responsive-menu-pro-open #responsive-menu-pro-container.push-left,
+    .responsive-menu-pro-open #responsive-menu-pro-container.slide-left {
+        transform: translateX(0);
+        -ms-transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+    }
+
+    #responsive-menu-pro-container.push-top,
+    #responsive-menu-pro-container.slide-top {
+        transform: translateY(-100%);
+        -ms-transform: translateY(-100%);
+        -webkit-transform: translateY(-100%);
+        -moz-transform: translateY(-100%);
+    }
+
+    .responsive-menu-pro-open #responsive-menu-pro-container.push-top,
+    .responsive-menu-pro-open #responsive-menu-pro-container.slide-top {
+        transform: translateY(0);
+        -ms-transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+    }
+
+    #responsive-menu-pro-container.push-right,
+    #responsive-menu-pro-container.slide-right {
+        transform: translateX(100%);
+        -ms-transform: translateX(100%);
+        -webkit-transform: translateX(100%);
+        -moz-transform: translateX(100%);
+    }
+
+    .responsive-menu-pro-open #responsive-menu-pro-container.push-right,
+    .responsive-menu-pro-open #responsive-menu-pro-container.slide-right {
+        transform: translateX(0);
+        -ms-transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+    }
+
+    #responsive-menu-pro-container.push-bottom,
+    #responsive-menu-pro-container.slide-bottom {
+        transform: translateY(100%);
+        -ms-transform: translateY(100%);
+        -webkit-transform: translateY(100%);
+        -moz-transform: translateY(100%);
+    }
+
+    .responsive-menu-pro-open #responsive-menu-pro-container.push-bottom,
+    .responsive-menu-pro-open #responsive-menu-pro-container.slide-bottom {
+        transform: translateY(0);
+        -ms-transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+    }
+
+    #responsive-menu-pro-container,
+    #responsive-menu-pro-container:before,
+    #responsive-menu-pro-container:after,
+    #responsive-menu-pro-container *,
+    #responsive-menu-pro-container *:before,
+    #responsive-menu-pro-container *:after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-search-box,
+    #responsive-menu-pro-container #responsive-menu-pro-additional-content,
+    #responsive-menu-pro-container #responsive-menu-pro-title {
+        padding: 25px 5%;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro,
+    #responsive-menu-pro-container #responsive-menu-pro ul {
+        width: 100%;
+   }
+
+    #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu {
+        display: none;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu.responsive-menu-pro-submenu-open {
+     display: block;
+    }
+
+            #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu-depth-1 a.responsive-menu-pro-item-link {
+            padding-left: 10%;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu-depth-2 a.responsive-menu-pro-item-link {
+            padding-left: 15%;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu-depth-3 a.responsive-menu-pro-item-link {
+            padding-left: 20%;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu-depth-4 a.responsive-menu-pro-item-link {
+            padding-left: 25%;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu-depth-5 a.responsive-menu-pro-item-link {
+            padding-left: 30%;
+        }
+    
+    #responsive-menu-pro-container li.responsive-menu-pro-item {
+        width: 100%;
+        list-style: none;
+    }
+
+    #responsive-menu-pro-container li.responsive-menu-pro-item a {
+        width: 100%;
+        display: block;
+        text-decoration: none;
+        position: relative;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a {
+                    padding: 0   5%;
+            }
+
+    #responsive-menu-pro-container .responsive-menu-pro-submenu li.responsive-menu-pro-item a {
+                    padding: 0   5%;
+            }
+
+
+    #responsive-menu-pro-container li.responsive-menu-pro-item a .glyphicon,
+    #responsive-menu-pro-container li.responsive-menu-pro-item a .fab,
+    #responsive-menu-pro-container li.responsive-menu-pro-item a .fas {
+        margin-right: 15px;
+    }
+
+    #responsive-menu-pro-container li.responsive-menu-pro-item a .responsive-menu-pro-subarrow {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    #responsive-menu-pro-container li.responsive-menu-pro-item a .responsive-menu-pro-subarrow .glyphicon,
+    #responsive-menu-pro-container li.responsive-menu-pro-item a .responsive-menu-pro-subarrow .fab,
+    #responsive-menu-pro-container li.responsive-menu-pro-item a .responsive-menu-pro-subarrow .fas {
+        margin-right: 0;
+    }
+
+    button#responsive-menu-pro-button .responsive-menu-pro-button-icon-inactive {
+        display: none;
+    }
+
+    button#responsive-menu-pro-button {
+        z-index: 99999;
+        display: none;
+        overflow: hidden;
+        outline: none;
+    }
+
+    button#responsive-menu-pro-button img {
+        max-width: 100%;
+    }
+
+    .responsive-menu-pro-label {
+        display: inline-block;
+        font-weight: 600;
+        margin: 0 5px;
+        vertical-align: middle;
+        pointer-events: none;
+    }
+
+    .responsive-menu-pro-accessible {
+        display: inline-block;
+    }
+
+    .responsive-menu-pro-accessible .responsive-menu-pro-box {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .responsive-menu-pro-label.responsive-menu-pro-label-top,
+    .responsive-menu-pro-label.responsive-menu-pro-label-bottom {
+        display: block;
+        margin: 0 auto;
+    }
+
+    button#responsive-menu-pro-button {
+        padding: 0 0;
+        display: inline-block;
+        cursor: pointer;
+        transition-property: opacity, filter;
+        transition-duration: 0.15s;
+        transition-timing-function: linear;
+        font: inherit;
+        color: inherit;
+        text-transform: none;
+        background-color: transparent;
+        border: 0;
+        margin: 0;
+    }
+
+    .responsive-menu-pro-box {
+        width: 25px;
+        height: 17px;
+        display: inline-block;
+        position: relative;
+    }
+
+    .responsive-menu-pro-inner {
+        display: block;
+        top: 50%;
+        margin-top: -1.5px;
+    }
+
+    .responsive-menu-pro-inner,
+    .responsive-menu-pro-inner::before,
+    .responsive-menu-pro-inner::after {
+        width: 25px;
+        height: 3px;
+        background-color: #ffffff;
+        border-radius: 4px;
+        position: absolute;
+        transition-property: transform;
+        transition-duration: 0.15s;
+        transition-timing-function: ease;
+    }
+
+    .responsive-menu-pro-open .responsive-menu-pro-inner,
+    .responsive-menu-pro-open .responsive-menu-pro-inner::before,
+    .responsive-menu-pro-open .responsive-menu-pro-inner::after {
+        background-color: #fff;
+    }
+
+    button#responsive-menu-pro-button:hover .responsive-menu-pro-inner,
+    button#responsive-menu-pro-button:hover .responsive-menu-pro-inner::before,
+    button#responsive-menu-pro-button:hover .responsive-menu-pro-inner::after,
+    button#responsive-menu-pro-button:hover .responsive-menu-pro-open .responsive-menu-pro-inner,
+    button#responsive-menu-pro-button:hover .responsive-menu-pro-open .responsive-menu-pro-inner::before,
+    button#responsive-menu-pro-button:hover .responsive-menu-pro-open .responsive-menu-pro-inner::after,
+    button#responsive-menu-pro-button:focus .responsive-menu-pro-inner,
+    button#responsive-menu-pro-button:focus .responsive-menu-pro-inner::before,
+    button#responsive-menu-pro-button:focus .responsive-menu-pro-inner::after,
+    button#responsive-menu-pro-button:focus .responsive-menu-pro-open .responsive-menu-pro-inner,
+    button#responsive-menu-pro-button:focus .responsive-menu-pro-open .responsive-menu-pro-inner::before,
+    button#responsive-menu-pro-button:focus .responsive-menu-pro-open .responsive-menu-pro-inner::after {
+        background-color: #fff;
+    }
+
+    .responsive-menu-pro-inner::before,
+    .responsive-menu-pro-inner::after {
+        content: "";
+        display: block;
+    }
+
+    .responsive-menu-pro-inner::before {
+        top: -7px;
+    }
+
+    .responsive-menu-pro-inner::after {
+        bottom: -7px;
+    }
+
+            .responsive-menu-pro-boring .responsive-menu-pro-inner,
+.responsive-menu-pro-boring .responsive-menu-pro-inner::before,
+.responsive-menu-pro-boring .responsive-menu-pro-inner::after {
+    transition-property: none;
+}
+
+.responsive-menu-pro-boring.is-active .responsive-menu-pro-inner {
+    transform: rotate(45deg);
+}
+
+.responsive-menu-pro-boring.is-active .responsive-menu-pro-inner::before {
+    top: 0;
+    opacity: 0;
+}
+
+.responsive-menu-pro-boring.is-active .responsive-menu-pro-inner::after {
+    bottom: 0;
+    transform: rotate(-90deg);
+}    
+    button#responsive-menu-pro-button {
+        width: 30px;
+        height: 30px;
+        position: fixed;
+        top: 5px;
+        right: 5%;
+        display: inline-block;
+        transition: transform   0.5s, background-color   0.5s;
+                   background: #000000;
+            }
+
+            .responsive-menu-pro-open button#responsive-menu-pro-button:hover,
+        .responsive-menu-pro-open button#responsive-menu-pro-button:focus,
+        button#responsive-menu-pro-button:hover,
+        button#responsive-menu-pro-button:focus {
+            background: #000000;
+         }
+    
+
+            .responsive-menu-pro-open button#responsive-menu-pro-button {
+            background: #000;
+         }
+    
+    button#responsive-menu-pro-button .responsive-menu-pro-box {
+        color: #ffffff;
+        pointer-events: none;
+    }
+
+    .responsive-menu-pro-open button#responsive-menu-pro-button .responsive-menu-pro-box {
+        color: #fff;
+    }
+
+    .responsive-menu-pro-label {
+        color: #ffffff;
+        font-size: 14px;
+        line-height: 13px;
+                pointer-events: none;
+    }
+
+    .responsive-menu-pro-label .responsive-menu-pro-button-text-open {
+        display: none;
+    }
+
+    
+    
+    .responsive-menu-pro-fade-top #responsive-menu-pro-container,
+    .responsive-menu-pro-fade-left #responsive-menu-pro-container,
+    .responsive-menu-pro-fade-right #responsive-menu-pro-container,
+    .responsive-menu-pro-fade-bottom #responsive-menu-pro-container {
+        display: none;
+    }
+
+    
+    
+    #responsive-menu-pro-container {
+        width: 75%;
+        left: 0;
+                    background: #212121;
+                        transition: transform   0.5s;
+        text-align: left;
+                                    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-wrapper {
+        background: #212121;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-additional-content {
+        color: #ffffff;
+    }
+
+    #responsive-menu-pro-container .responsive-menu-pro-search-box {
+        background: #ffffff;
+        border: 2px solid   #dadada;
+        color: #333333;
+    }
+
+    #responsive-menu-pro-container .responsive-menu-pro-search-box:-ms-input-placeholder {
+        color: #C7C7CD;
+    }
+
+    #responsive-menu-pro-container .responsive-menu-pro-search-box::-webkit-input-placeholder {
+        color: #C7C7CD;
+    }
+
+    #responsive-menu-pro-container .responsive-menu-pro-search-box:-moz-placeholder {
+        color: #C7C7CD;
+        opacity: 1;
+    }
+
+    #responsive-menu-pro-container .responsive-menu-pro-search-box::-moz-placeholder {
+        color: #C7C7CD;
+        opacity: 1;
+    }
+
+    #responsive-menu-pro-container .responsive-menu-pro-item-link,
+    #responsive-menu-pro-container #responsive-menu-pro-title,
+    #responsive-menu-pro-container .responsive-menu-pro-subarrow {
+        transition: background-color   0.5s,
+                    border-color   0.5s,
+                    color   0.5s;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-title {
+        background-color: #212121;
+        color: #ffffff;
+        font-size: 13px;
+        text-align: left;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-title a {
+        color: #ffffff;
+        font-size: 13px;
+        text-decoration: none;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-title a:hover {
+        color: #ffffff;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-title:hover {
+        background-color: #212121;
+        color: #ffffff;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-title:hover a {
+        color: #ffffff;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-title #responsive-menu-pro-title-image {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro-title #responsive-menu-pro-title-image img {
+                        max-width: 100%;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro > li.responsive-menu-pro-item:first-child > a {
+        border-top: 0px solid #212121;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item .responsive-menu-pro-item-link {
+        font-size: 13px;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a {
+        line-height: 40px;
+        border-bottom: 0px solid #212121;
+        color: #ffffff;
+        background-color: #212121;
+                    word-wrap: break-word;
+            height: auto;
+            padding-right: 40px;
+            }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a:hover,
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a:focus {
+        color: #ffffff;
+        background-color: #3f3f3f;
+        border-color: #212121;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a:hover .responsive-menu-pro-subarrow,
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a:focus .responsive-menu-pro-subarrow  {
+        color: #ffffff;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a:hover .responsive-menu-pro-subarrow.responsive-menu-pro-subarrow-active,
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a:focus .responsive-menu-pro-subarrow.responsive-menu-pro-subarrow-active {
+        color: #ffffff;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a .responsive-menu-pro-subarrow {
+        right: 0;
+        height: 40px;
+        line-height: 40px;
+        width: 40px;
+        color: #ffffff;
+                        border-left: 0px solid #212121;
+
+                background-color: #212121;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a .responsive-menu-pro-subarrow.responsive-menu-pro-subarrow-active {
+        color: #ffffff;
+        border-color: #212121;
+        background-color: #212121;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a .responsive-menu-pro-subarrow.responsive-menu-pro-subarrow-active:hover,
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a .responsive-menu-pro-subarrow.responsive-menu-pro-subarrow-active:focus  {
+        color: #ffffff;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a .responsive-menu-pro-subarrow:hover,
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a .responsive-menu-pro-subarrow:focus {
+        color: #ffffff;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item.responsive-menu-pro-current-item > .responsive-menu-pro-item-link {
+        background-color: #212121;
+        color: #ffffff;
+        border-color: #212121;
+    }
+
+    #responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item.responsive-menu-pro-current-item > .responsive-menu-pro-item-link:hover {
+        background-color: #3f3f3f;
+        color: #ffffff;
+        border-color: #3f3f3f;
+    }
+
+            #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item .responsive-menu-pro-item-link {
+                        font-size: 13px;
+            text-align: left;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item a {
+                            word-wrap: break-word;
+                height: auto;
+                padding-right: 40px;
+                        line-height: 40px;
+            border-bottom: 0px solid #212121;
+            color: #ffffff;
+            background-color: #212121;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item a:hover,
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item a:focus {
+            color: #ffffff;
+            background-color: #3f3f3f;
+            border-color: #212121;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item a:hover .responsive-menu-pro-subarrow {
+            color: #ffffff;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item a:hover .responsive-menu-pro-subarrow.responsive-menu-pro-subarrow-active {
+            color: #ffffff;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item a .responsive-menu-pro-subarrow {
+
+                                        left:unset;
+                right:0;
+                       
+            height: 40px;
+            line-height: 40px;
+            width: 40px;
+            color: #ffffff;
+
+                                        border-left: 0px solid #212121;
+                border-right:unset;
+            
+            
+            background-color: #212121;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item a .responsive-menu-pro-subarrow.responsive-menu-pro-subarrow-active {
+            color: #ffffff;
+            border-color: #212121;
+            background-color: #212121;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item a .responsive-menu-pro-subarrow.responsive-menu-pro-subarrow-active:hover {
+            color: #ffffff;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item a .responsive-menu-pro-subarrow:hover {
+            color: #ffffff;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item.responsive-menu-pro-current-item > .responsive-menu-pro-item-link {
+            background-color: #212121;
+            color: #ffffff;
+            border-color: #212121;
+        }
+
+        #responsive-menu-pro-container #responsive-menu-pro ul.responsive-menu-pro-submenu li.responsive-menu-pro-item.responsive-menu-pro-current-item > .responsive-menu-pro-item-link:hover {
+            background-color: #3f3f3f;
+            color: #ffffff;
+            border-color: #3f3f3f;
+        }
+    
+    
+    
+}
+
+
+    #responsive-menu-pro-header {
+    width: 100%;
+    padding: 0 5%;
+    box-sizing: border-box;
+    top: 0;
+    right: 0;
+    left: 0;
+    display: none;
+    z-index: 99998;
+}
+
+#responsive-menu-pro-header .responsive-menu-pro-header-box {
+    display: inline-block;
+}
+
+#responsive-menu-pro-header .responsive-menu-pro-header-box,
+#responsive-menu-pro-header .responsive-menu-pro-header-box img {
+    vertical-align: middle;
+    max-width: 100%;
+}
+
+#responsive-menu-pro-header #responsive-menu-pro-header-bar-logo img {
+        }
+
+#responsive-menu-pro-header button#responsive-menu-pro-button {
+    position: relative;
+    margin: 0;
+    left: auto;
+    right: auto;
+    bottom: auto;
+}
+
+#responsive-menu-pro-header .responsive-menu-pro-header-box {
+    margin-right: 2%;
+}
+
+@media screen and (max-width: 767px) {
+
+    
+    #responsive-menu-pro-header {
+        position: fixed;
+        background-color: rgba(34, 34, 34, 1);
+        height: 40px;
+        color: #ffffff;
+        display: block;
+        font-size: 14px;
+            }
+
+    #responsive-menu-pro-header .responsive-menu-pro-header-bar-item {
+        line-height: 40px;
+    }
+
+    #responsive-menu-pro-header a {
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+}#responsive-menu-pro-header-bar-search  .responsive-menu-pro-search-box {
+    background: #fff;
+    border: 2px solid #dadada;
+    color: #333;
+    width: 100%;
+    padding: 0 2%;
+    border-radius: 2px;
+    height: 25px;
+    -webkit-appearance: none;
+}
+
+
+#responsive-menu-pro-container #responsive-menu-pro li.responsive-menu-pro-item a {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    line-height: inherit;
+}
+	
+</style><script>jQuery(document).ready(function($) {
+
+    var ResponsiveMenuPro = {
+        trigger: '#responsive-menu-pro-button',
+        animationSpeed: 500,
+        breakpoint: 767,
+                        isOpen: false,
+        activeClass: 'is-active',
+        container: '#responsive-menu-pro-container',
+        openClass: 'responsive-menu-pro-open',
+        activeArrow: '▲',
+        inactiveArrow: '▼',
+        wrapper: '#responsive-menu-pro-wrapper',
+        linkElement: '.responsive-menu-pro-item-link',
+        subMenuTransitionTime: 200,
+        originalHeight: '',
+        openMenu: function() {
+            $(this.trigger).addClass(this.activeClass);
+            $('html').addClass(this.openClass);
+            $('.responsive-menu-pro-button-icon-active').hide();
+            $('.responsive-menu-pro-button-icon-inactive').show();
+
+            
+            
+                            this.setWrapperTranslate();
+            
+            
+            
+            
+            this.isOpen = true;
+        },
+        closeMenu: function() {
+            $(this.trigger).removeClass(this.activeClass);
+            $('html').removeClass(this.openClass);
+            $('.responsive-menu-pro-button-icon-inactive').hide();
+            $('.responsive-menu-pro-button-icon-active').show();
+
+            
+                            this.clearWrapperTranslate();
+            
+            $("#responsive-menu-pro > li").removeAttr('style');
+
+            
+            this.isOpen = false;
+        },
+                triggerMenu: function() {
+            this.isOpen ? this.closeMenu() : this.openMenu();
+        },
+
+        
+        triggerSubArrow: function(subarrow) {
+            var sub_menu = $(subarrow).parent().siblings('.responsive-menu-pro-submenu');
+            var self = this;
+
+            
+                
+                    
+                
+                if(sub_menu.hasClass('responsive-menu-pro-submenu-open')) {
+                    sub_menu.slideUp(self.subMenuTransitionTime, 'linear',function() {
+                        $(this).css('display', '');
+                    }).removeClass('responsive-menu-pro-submenu-open');
+                    $(subarrow).html(this.inactiveArrow);
+                    $(subarrow).removeClass('responsive-menu-pro-subarrow-active');
+                } else {
+                    sub_menu.slideDown(self.subMenuTransitionTime, 'linear').addClass('responsive-menu-pro-submenu-open');
+                    $(subarrow).html(this.activeArrow);
+                    $(subarrow).addClass('responsive-menu-pro-subarrow-active');
+                }
+
+            
+        },
+        menuHeight: function() {
+            return $(this.container).height();
+        },
+        menuWidth: function() {
+            return $(this.container).width();
+        },
+        wrapperHeight: function() {
+            return $(this.wrapper).height();
+        },
+                    setWrapperTranslate: function() {
+                switch('left') {
+                    case 'left':
+                        translate = 'translateX(' + this.menuWidth() + 'px)'; break;
+                    case 'right':
+                        translate = 'translateX(-' + this.menuWidth() + 'px)'; break;
+                    case 'top':
+                        translate = 'translateY(' + this.wrapperHeight() + 'px)'; break;
+                    case 'bottom':
+                        translate = 'translateY(-' + this.menuHeight() + 'px)'; break;
+                }
+
+                
+                            },
+            clearWrapperTranslate: function() {
+                var self = this;
+
+                
+                            },
+        
+        
+        
+        init: function() {
+
+            var self = this;
+
+            
+                
+            
+            
+                
+                
+            
+            
+                
+            
+            $(this.trigger).on('click', function(e){
+                e.stopPropagation();
+                self.triggerMenu();
+            });
+
+            $(this.trigger).mouseup(function(){
+                $(self.trigger).blur();
+            });
+
+            $('.responsive-menu-pro-subarrow').on('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                self.triggerSubArrow(this);
+            });
+
+            $(window).resize(function() {
+                if($(window).width() >= self.breakpoint) {
+                    if(self.isOpen){
+                        self.closeMenu();
+                    }
+                    $('#responsive-menu-pro, .responsive-menu-pro-submenu').removeAttr('style');
+                } else {
+                    
+                                            if($('.responsive-menu-pro-open').length > 0){
+                            self.setWrapperTranslate();
+                        }
+                                    }
+            });
+
+            
+            
+            
+           
+            
+            
+             /* Desktop menu : hide on scroll down / show on scroll Up */
+            
+
+                        $(this.trigger).mousedown(function(e){
+                e.preventDefault();
+                e.stopPropagation();
+            });
+
+                        if (jQuery('#responsive-menu-pro-button').css('display') != 'none') {
+
+                $('#responsive-menu-pro-button,#responsive-menu-pro a.responsive-menu-pro-item-link,#responsive-menu-pro-wrapper input').focus( function() {
+                    $(this).addClass('is-active');
+                    $('html').addClass('responsive-menu-pro-open');
+                    $('#responsive-menu-pro li').css({"opacity": "1", "margin-left": "0"});
+                });
+
+                $('a,input,button').focusout( function( event ) {
+                    if ( ! $(this).parents('#responsive-menu-pro-container').length ) {
+                        $('html').removeClass('responsive-menu-pro-open');
+                        $('#responsive-menu-pro-button').removeClass('is-active');
+                    }
+                });
+            } else {
+                                             }
+
+                        $('#responsive-menu-pro a.responsive-menu-pro-item-link').keydown(function(event) {
+                if ( [13,27,32,35,36,37,38,39,40].indexOf( event.keyCode) == -1) {
+                    return;
+                }
+                var link = $(this);
+                switch(event.keyCode) {
+                    case 13:
+                                                link.click();
+                        break;
+                    case 27:
+                                                var dropdown = link.parent('li').parents('.responsive-menu-pro-submenu');
+                        if ( dropdown.length > 0 ) {
+                            dropdown.hide();
+                            dropdown.prev().focus();
+                        }
+                        break;
+                    case 32:
+                                                var dropdown = link.parent('li').find('.responsive-menu-pro-submenu');
+                        if ( dropdown.length > 0 ) {
+                            dropdown.show();
+                            dropdown.find('a, input, button, textarea').filter(':visible').first().focus();
+                        }
+                        break;
+                    case 35:
+                                                var dropdown = link.parent('li').find('.responsive-menu-pro-submenu');
+                        if ( dropdown.length > 0 ) {
+                            dropdown.hide();
+                        }
+                        $(this).parents('#responsive-menu-pro').find('a.responsive-menu-pro-item-link').filter(':visible').last().focus();
+                        break;
+                    case 36:
+                                                var dropdown = link.parent('li').find('.responsive-menu-pro-submenu');
+                        if( dropdown.length > 0 ) {
+                            dropdown.hide();
+                        }
+
+                        $(this).parents('#responsive-menu-pro').find('a.responsive-menu-pro-item-link').filter(':visible').first().focus();
+                        break;
+                    case 37:
+                        event.preventDefault();
+                        event.stopPropagation();
+
+                                                if ( link.parent('li').prevAll('li').filter(':visible').first().length == 0) {
+                            link.parent('li').nextAll('li').filter(':visible').last().find('a').first().focus();
+                        } else {
+                            link.parent('li').prevAll('li').filter(':visible').first().find('a').first().focus();
+                        }
+
+                                                if ( link.parent('li').children('.responsive-menu-pro-submenu').length ) {
+                            link.parent('li').children('.responsive-menu-pro-submenu').hide();
+                        }
+                        break;
+                    case 38:
+                                                var dropdown = link.parent('li').find('.responsive-menu-pro-submenu');
+                        if( dropdown.length > 0 ) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                            dropdown.find('a, input, button, textarea').filter(':visible').first().focus();
+                        } else {
+                            if ( link.parent('li').prevAll('li').filter(':visible').first().length == 0) {
+                                link.parent('li').nextAll('li').filter(':visible').last().find('a').first().focus();
+                            } else {
+                                link.parent('li').prevAll('li').filter(':visible').first().find('a').first().focus();
+                            }
+                        }
+                        break;
+                    case 39:
+                        event.preventDefault();
+                        event.stopPropagation();
+                                                if( link.parent('li').nextAll('li').filter(':visible').first().length == 0) {
+                            link.parent('li').prevAll('li').filter(':visible').last().find('a').first().focus();
+                        } else {
+                            link.parent('li').nextAll('li').filter(':visible').first().find('a').first().focus();
+                        }
+
+                                                if ( link.parent('li').children('.responsive-menu-pro-submenu').length ) {
+                            link.parent('li').children('.responsive-menu-pro-submenu').hide();
+                        }
+                        break;
+                    case 40:
+                                                var dropdown = link.parent('li').find('.responsive-menu-pro-submenu');
+                        if ( dropdown.length > 0 ) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                            dropdown.find('a, input, button, textarea').filter(':visible').first().focus();
+                        } else {
+                            if( link.parent('li').nextAll('li').filter(':visible').first().length == 0) {
+                                link.parent('li').prevAll('li').filter(':visible').last().find('a').first().focus();
+                            } else {
+                                link.parent('li').nextAll('li').filter(':visible').first().find('a').first().focus();
+                            }
+                        }
+                        break;
+                    }
+            });
+
+        }
+    };
+    ResponsiveMenuPro.init();
+});
+</script>    <style>
+
+        /* #custom-footer,   div#breadcrumbs-wrap,*/
+        div#liens-rapides div.block-name-frontpage,
+        #frontpage-bottom-square div.line.second div.bloc-name,
+            /* div.sidebar-menu-wrap  li.current-menu-item, */
+        div.module-name span.fleche,
+            /* .sub-menu li.current-page-ancestor,*/
+        div.sidebar-contact,
+        div.module-facmed div.voir-plus a,
+        div#breadcrumbs-wrap,
+            /* .button,  .mybutton a, */
+        div#home-news-events div.third.last div.list-link div.name,
+            /* th,  thead td,*/
+        div#bande-couleur,
+        p.tribe-events-widget-link a, /* DPC , CPASS */
+        .site-background-color
+
+        {
+            background-color: #008c9e;
+        }
+
+        /* Pour overrider Woocomerce */
+        .button,  .mybutton a, .wpcf7-submit{
+            background-color: #008c9e !important;
+        }
+
+        ul#menu-main > li.current-page-ancestor > a,
+        ul#menu-main li.current_page_item > a,
+        ul#menu-main > li > a:hover,
+        div.inner-menu li a:hover,
+        div.inner-menu li.current-menu-parent a,
+        ul#menu-main > li.current-page-ancestor li.current-page-ancestor a,
+        div.inner-menu li.current-menu-item a,
+        div#liens-rapides a:hover,
+        .site-color,
+        div.sidebar-menu-wrap li.current-menu-item > a,
+            /*div#bloc-menu  div.bloc div.bloc-name a:hover,*/
+        div.sidebar-menu-wrap a:hover,
+
+        div.sidebar-menu-wrap li.current-menu-ancestor > a:after,
+        div#accueil-grande-photo div.next-img.current,
+        div#custom-footer .my-widget-area a
+        {
+            color: #008c9e;
+        }
+        ul#menu-main li.accueil a{
+            background: url('https://pediatrie.umontreal.ca/wp-content/themes/departements/images/icons/maisons/pediatrie.png') no-repeat 0px 7px;;
+        }
+        ul#menu-main li.accueil.current-menu-item a,  ul#menu-main li.accueil a:hover{
+            background: url('https://pediatrie.umontreal.ca/wp-content/themes/departements/images/icons/maisons/pediatrie.png') no-repeat -27px 7px;
+        }
+        ul#menu-main li.nous-joindre a{
+            background: url('https://pediatrie.umontreal.ca/wp-content/themes/departements/images/icons/nous-joindre/pediatrie.png') no-repeat 0px 7px;;
+        }
+        ul#menu-main li.nous-joindre.current-menu-item a,  ul#menu-main li.nous-joindre a:hover{
+            background: url('https://pediatrie.umontreal.ca/wp-content/themes/departements/images/icons/nous-joindre/pediatrie.png') no-repeat -27px 7px;
+        }
+        div.inner-menu li a:after {
+            border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #008c9e;
+        }
+
+        /*  Couleur du plus dans un toggle*/
+        body#top .extralight-border span.toggle_icon.extralight-border span.vert_icon,
+        body#top .extralight-border span.toggle_icon.extralight-border span.hor_icon{
+            border: 2px solid #008c9e;
+        }
+
+        .js_active #top .active_tab {
+            border-top: 1px solid #008c9e;
+            border-left: 1px solid #008c9e;
+            border-right: 1px solid #008c9e;
+            background: #008c9e;
+        }
+
+    </style>
+    
+<script async src="https://urgence.umontreal.ca/typo3conf/ext/udem_urgence/Resources/Public/JavaScript/udem-urgence-bcrp-min.js"
+    charset="utf-8"></script>
+
+</head>
+<body id="top" class="home page-template page-template-template-frontpage page-template-template-frontpage-php page page-id-4203 pediatrie  responsive-menu-pro-slide-left" >
+
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?GTM-59JH4NK"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    	
+
+    <div id="udem-urgence-bcrp" style="display:none;"></div>
+	
+	<div id='wrap_all'>
+		<header><!-- ####### HEAD CONTAINER ####### -->
+			<div class='container_wrap' id='header'>
+				<div class='container'>
+
+					<div class="first-line">
+						<div id="search-bar"><form action="https://pediatrie.umontreal.ca/" id="searchform" method="get">
+	<div>
+		<input type="text" id="s" name="s" placeholder="recherche"/>
+		<input type="submit" value="" id="searchsubmit"/>		
+	</div>
+</form><!-- end searchform--></div> 
+						
+						<div id="lng-switcher" class="">
+													</div>	
+						
+						<div id="top-menu" class="sub_menu hide-cellphone">
+							<div class="menu-udem-container"><ul id="menu-udem" class="menu"><li id="menu-item-4221" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4221"><a href="https://www.umontreal.ca/#udemwww-search-personne">Répertoires</a></li>
+<li id="menu-item-3131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3131"><a href="http://www.umontreal.ca/repertoires/facultes.html">Facultés</a></li>
+<li id="menu-item-3132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3132"><a href="http://www.bib.umontreal.ca/">Bibliothèques</a></li>
+<li id="menu-item-3133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3133"><a href="http://www.umontreal.ca/plancampus/index.html">Plan campus</a></li>
+<li id="menu-item-3134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3134"><a href="http://www.umontreal.ca/index/az.html">Sites A-Z</a></li>
+<li id="menu-item-4215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4215"><a href="http://www.portail.umontreal.ca/">Mon portail UdeM</a></li>
+</ul></div>						</div>
+					</div><!-- first-line -->
+							
+			     <div class="logo-UdeM-nom-departement">
+
+    				<div class="logo">
+    						<a href="http://umontreal.ca/"><img src="https://pediatrie.umontreal.ca/wp-content/themes/departements/images/logo/logo-udem.png" alt="Logo UdeM"></a>    				</div>
+    				
+    				<div id="separateur"></div>
+    
+    				<div class="faculte-departement  ">									
+<p class="faculte-nom"><a href="http://medecine.umontreal.ca">Faculté de médecine</a></p><a href="https://pediatrie.umontreal.ca" class="site-title ">Département de pédiatrie</a>															
+    				    </div><!-- faculte-departement -->
+    		        </div><!-- logo-UdeM-nom-departement -->
+
+				</div><!-- end container-->
+			</div><!-- end container_wrap-->
+				
+
+			<div class='container_wrap' id='main-menu-wrap'>
+				<div class='container'>		
+				
+					
+				 
+	
+					<div class='main_menu'>						
+						<nav>
+							<div class="main-menu-container"><ul id="menu-main" class="menu"><li id="menu-item-4282" class="accueil menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4203 current_page_item menu-item-4282"><a href="https://pediatrie.umontreal.ca/" aria-current="page">Accueil</a></li>
+<li id="menu-item-4225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4225"><a href="https://pediatrie.umontreal.ca/etudes/">Études</a>
+<ul class="sub-menu">
+	<li id="menu-item-4229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4229"><a href="https://pediatrie.umontreal.ca/etudes/externat/">Externat</a></li>
+	<li id="menu-item-4234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4234"><a href="https://pediatrie.umontreal.ca/etudes/residence-en-medecine-familiale/">Résidence en médecine familiale</a></li>
+	<li id="menu-item-4233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4233"><a href="https://pediatrie.umontreal.ca/etudes/programmes-de-residences/">Programmes de résidences</a></li>
+	<li id="menu-item-4232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4232"><a href="https://pediatrie.umontreal.ca/etudes/formation-continue/">Formation continue</a></li>
+	<li id="menu-item-4231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4231"><a href="https://pediatrie.umontreal.ca/etudes/etudiants-etrangers/">Étudiants internationaux</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4269"><a href="https://pediatrie.umontreal.ca/etudes/etudiants-etrangers/medecine-sociojuridique-pediatrie-de-la-maltraitance/">Médecine sociojuridique (pédiatrie de la maltraitance)</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-4226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4226"><a href="https://pediatrie.umontreal.ca/recherche/">Recherche</a>
+<ul class="sub-menu">
+	<li id="menu-item-4242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4242"><a href="https://pediatrie.umontreal.ca/recherche/chercheurs-du-departement/">Chercheurs du département</a></li>
+	<li id="menu-item-4243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4243"><a href="https://pediatrie.umontreal.ca/recherche/axe-de-recherche/">Axe de recherche</a></li>
+	<li id="menu-item-4245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4245"><a href="https://pediatrie.umontreal.ca/recherche/poles-de-recherche/">Pôles de recherche</a></li>
+	<li id="menu-item-4246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4246"><a href="https://pediatrie.umontreal.ca/recherche/bourse/">Bourse</a></li>
+	<li id="menu-item-4249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4249"><a href="https://pediatrie.umontreal.ca/recherche/unite-de-recherche-clinique-appliquee-urca/">Unité de recherche clinique appliquée (URCA)</a></li>
+	<li id="menu-item-6141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6141"><a href="https://pediatrie.umontreal.ca/recherche/chaires-et-fonds/">Chaires et Fonds</a></li>
+</ul>
+</li>
+<li id="menu-item-4227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4227"><a href="https://pediatrie.umontreal.ca/departement/">Département</a>
+<ul class="sub-menu">
+	<li id="menu-item-4253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4253"><a href="https://pediatrie.umontreal.ca/departement/propos/">À propos</a></li>
+	<li id="menu-item-4259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4259"><a href="https://pediatrie.umontreal.ca/departement/enseignants/">Enseignants</a></li>
+	<li id="menu-item-4260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4260"><a href="https://pediatrie.umontreal.ca/departement/administration-et-personnel/">Administration et personnel</a></li>
+	<li id="menu-item-4250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4250"><a href="https://pediatrie.umontreal.ca/departement/rapports-annuels/">Rapports annuels</a></li>
+	<li id="menu-item-4254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4254"><a href="https://pediatrie.umontreal.ca/departement/hopitaux-et-reseaux/">Hôpitaux et réseaux</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4270"><a href="https://pediatrie.umontreal.ca/departement/hopitaux-et-reseaux/le-chu-sainte-justine/">Le CHU Sainte-Justine</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-4224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4224"><a href="https://pediatrie.umontreal.ca/ressources/">Ressources</a>
+<ul class="sub-menu">
+	<li id="menu-item-4262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4262"><a href="https://pediatrie.umontreal.ca/ressources/pour-les-parents/">Pour les parents</a></li>
+	<li id="menu-item-4261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4261"><a href="https://pediatrie.umontreal.ca/ressources/pour-les-medecins-pediatres-et-medecins-de-famille/">Pour les médecins : pédiatres et médecins de famille</a></li>
+</ul>
+</li>
+<li id="menu-item-4223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4223"><a href="https://pediatrie.umontreal.ca/nous-joindre/">Nous joindre</a></li>
+</ul></div> 
+						</nav>
+					</div>				
+				</div><!-- end container-->
+			</div><!-- end container_wrap-->
+	</header>		<!-- ####### MAIN CONTAINER ####### -->
+		<div class='container_wrap frontpage ' id='accueil-grande-photo' >
+        	<div class="img"   style="background: url(https://medmulti.umontreal.ca//sites/pediatrie/images/accueil/Pediatrie02.jpg) no-repeat center center #EEEEEE; background-size: cover; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;  ";  ></div>			
+			<div class='container'>	
+			
+					
+					<div id="liens-rapides">
+						<div class="block-name-frontpage"><span>Liens rapides</span></div>
+						<div class="menu-liens-rapides-container"><ul id="menu-liens-rapides" class="menu"><li id="menu-item-4265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4265"><a href="https://pediatrie.umontreal.ca/etudes/formation-continue/">Formation continue</a></li>
+<li id="menu-item-4266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4266"><a href="https://pediatrie.umontreal.ca/etudes/etudiants-etrangers/">Étudiants internationaux</a></li>
+<li id="menu-item-4268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4268"><a href="https://pediatrie.umontreal.ca/ressources/pour-les-parents/">Pour les parents</a></li>
+<li id="menu-item-4267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4267"><a href="https://pediatrie.umontreal.ca/ressources/pour-les-medecins-pediatres-et-medecins-de-famille/">Pour les médecins : pédiatres et médecins de famille</a></li>
+</ul></div><div class='social-media'><ul class="social_bookmarks"><li class="rss noLightbox"><a title="RSS" href="/feed/">Rss</a></li></ul></div>					</div>	
+					
+			</div><!--end container-->
+		</div><!-- ####### BIG IMG ####### -->
+
+		<div id="bande-couleur" class="no-mobile"></div>
+	
+		<!-- ####### MAIN CONTAINER ####### -->
+		<div class='container_wrap frontpage ' id='accueil-contenu-wrap'>
+
+
+			<div class='container'>		
+				<!-- CUSTOM -->
+				<div  class='widgets-wrap'>								
+					<div class='one-third col1 first'>
+						<div class="module-facmed news"><div class="module-name"><span class="name"><a class="nom" href="https://pediatrie.umontreal.ca/nouvelles/">Nouvelles</a></span><span class="fleche"><a class="fleche" href="https://pediatrie.umontreal.ca/nouvelles/">></a></span></div><div class="news"><div class="title"><a href="https://pediatrie.umontreal.ca/2021/04/22/elie-haddad-est-elu-president-de-la-clinical-immunology-society/" title="Elie Haddad est élu président de la Clinical Immunology Society" >Elie Haddad est élu président de la Clinical Immunology Society</a></div><div  class="img"><a href="https://pediatrie.umontreal.ca/2021/04/22/elie-haddad-est-elu-president-de-la-clinical-immunology-society/"> <img width="150" height="100" src="https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/2021/04/csm_20210421_Elie_Haddad_1734393f7c-150x100.jpg" class="attachment-news-small size-news-small wp-post-image" alt="" srcset="https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/2021/04/csm_20210421_Elie_Haddad_1734393f7c-150x100.jpg 150w, https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/2021/04/csm_20210421_Elie_Haddad_1734393f7c-300x200.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" /></a></div></div><div class="news"><div class="title"><a href="https://pediatrie.umontreal.ca/2021/02/16/2ieme-mandat-pour-dre-patricia-conrod-comme-titulaire-de-la-chaire-dr-julien-fondation-marcelle-et-jean-coutu-en-pediatrie-sociale/" title="2ième mandat pour Dre Patricia Conrod comme titulaire de la Chaire Dr Julien/Fondation Marcelle et Jean Coutu en pédiatrie sociale" >2ième mandat pour Dre Patricia Conrod comme titulaire de la Chaire Dr ...</a></div><div  class="img"><a href="https://pediatrie.umontreal.ca/2021/02/16/2ieme-mandat-pour-dre-patricia-conrod-comme-titulaire-de-la-chaire-dr-julien-fondation-marcelle-et-jean-coutu-en-pediatrie-sociale/"> <img src="https://pediatrie.umontreal.ca/wp-content/themes/departements/images/nouvelles/defaut.jpg" /></a></div></div><div class="news"><div class="title"><a href="https://pediatrie.umontreal.ca/2020/02/12/charge-de-cours-mmd-6005r-ete-2020/" title="Charge de cours &#8211; MMD-6005R &#8211; Été 2021" >Charge de cours &#8211; MMD-6005R &#8211; Été 2021</a></div><div  class="img"><a href="https://pediatrie.umontreal.ca/2020/02/12/charge-de-cours-mmd-6005r-ete-2020/"> <img src="https://pediatrie.umontreal.ca/wp-content/themes/departements/images/nouvelles/defaut.jpg" /></a></div></div><div class="news"><div class="title"><a href="https://pediatrie.umontreal.ca/2019/12/13/prix-leadership-individuel-2019-sante-des-enfants-canada-2019-childrens-health-care-award-for-individual-leadership/" title="Prix Leadership individuel 2019 &#8211; Santé des enfants Canada / 2019 Children&rsquo;s Health Care Award for Individual Leadership" >Prix Leadership individuel 2019 – Santé des enfants Canada / 2019 Chil...</a></div><div  class="img"><a href="https://pediatrie.umontreal.ca/2019/12/13/prix-leadership-individuel-2019-sante-des-enfants-canada-2019-childrens-health-care-award-for-individual-leadership/"> <img width="150" height="100" src="https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/2019/12/Frappier-Jean-Yves-2019-150x100.jpg" class="attachment-news-small size-news-small wp-post-image" alt="" /></a></div></div> <div class="voir-plus"><a href="https://pediatrie.umontreal.ca/nouvelles/">Voir plus</a></div></div><!-- module-facmed -->						
+					</div>	<!---->	 
+						 			
+					<div class='one-third col2'>
+						<div class="module-facmed calendar" id="facmed-calendar"><div class="module-name"><span class="name"><a class="nom" href="https://pediatrie.umontreal.ca/calendrier/">Événements</a></span><span class="fleche"><a class="fleche" href="https://pediatrie.umontreal.ca/calendrier/">></a></span></div><div class="no-event-message">Il n'y a aucun événement pour le moment</div></div><!-- module-facmed -->						
+					</div>	<!---->	
+							
+					<div class='one-third col3'>
+						<div class="my-widget-area">			<div class="textwidget"><a href="http://www.cheneliere.ca/9255-livre-dictionnaire-de-pediatrie-weber-3e-edition.html"><img src="https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/dictionnairex2321.jpg" alt="dictionnairex232" width="232" height="348" class=" wp-image-3062 size-full aligncenter" /></a></div>
+		</div>						
+					</div>	<!---->										
+									
+					<div class='one-third first mobile-only'>
+						<div id="liens-rapides">
+							<div class="block-name-frontpage"><span>Liens rapides</span></div>
+							<div class="menu-liens-rapides-container"><ul id="menu-liens-rapides-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4265"><a href="https://pediatrie.umontreal.ca/etudes/formation-continue/">Formation continue</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4266"><a href="https://pediatrie.umontreal.ca/etudes/etudiants-etrangers/">Étudiants internationaux</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4268"><a href="https://pediatrie.umontreal.ca/ressources/pour-les-parents/">Pour les parents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4267"><a href="https://pediatrie.umontreal.ca/ressources/pour-les-medecins-pediatres-et-medecins-de-famille/">Pour les médecins : pédiatres et médecins de famille</a></li>
+</ul></div><div class='social-media'><ul class="social_bookmarks"><li class="rss noLightbox"><a title="RSS" href="/feed/">Rss</a></li></ul></div>						</div>	
+					</div>
+										
+				</div>						
+
+			</div><!--end container-->
+
+		</div> <!-- ####### END MAIN CONTAINER ####### -->
+
+
+	<div class='container_wrap frontpage' id='zone-timbres'>
+			<div class='container'>
+				<div class="frontpage-timbres">
+<!-- Timbres affichés sur tous les sites -->
+
+
+
+	
+	
+
+
+
+<!--
+	<a href="https://distinctions.umontreal.ca/luniversite-honore/prix-dexcellence-en-enseignement/"  >
+		<img src="https://medecine.umontreal.ca/images/timbres/prix_enseignement.gif" width="200" height="50" alt="">      
+	</a>
+	
+	<a href="https://bib.umontreal.ca/communications/nouvelles/nouvelle/a-la-mi-session-profitez-du-247-a-la-blsh-et-des-horaires-prolonges-en-bibliotheques">
+		<img src="https://medecine.umontreal.ca/images/timbres/bibli_h2019.gif" width="200" height="50" alt="">         
+	</a>
+
+	<a href="https://admission.umontreal.ca/evenement/presentation/portes-ouvertes-a-ludem-27-janvier-2019-15659/">
+		<img src="https://medecine.umontreal.ca/images/timbres/portes_ouvertes_2019.png" width="200" height="50" alt="">         
+	</a>
+	
+	<a href="https://admission.umontreal.ca/programmes-de-cycles-superieurs-ouverts-hiver/">
+		<img src="https://medecine.umontreal.ca/images/timbres/admission_hiv_2019.png" width="200" height="50" alt="">  
+
+	</a>	
+	
+	
+
+	<a href="http://www.bib.umontreal.ca/communiques/20180924-DB-horaires-prolonges-247-mi-session-a18.htm"  >
+		<img src="https://medecine.umontreal.ca/images/timbres/bibli_200x50_2018.png" width="200" height="50" alt="">      
+	</a>
+			
+	
+	<a href="https://medecine.umontreal.ca/communaute/les-etudiants/collations-grades-faculte-medecine/">
+		<img src="https://medecine.umontreal.ca/images/timbres/collations_2017.jpg" width="200" height="50" alt="">      
+	</a>	
+	
+	<a href="https://univofmontreal.adobeconnect.com/r7jddbm47yyp/" class="goal" >
+		<img src="https://medecine.umontreal.ca/images/timbres/iam.png" width="200" height="50" alt="">      
+	</a>	
+
+	<a href="http://www.bib.umontreal.ca/SS/24-7.htm"  >
+		<img src="https://medecine.umontreal.ca/images/timbres/bib_p2018.png" width="200" height="50" alt="">      
+	</a>
+			
+
+	<a href="http://sse.umontreal.ca/apprentissage/documentation/UdeM_Prix2018_enseignement.pdf"  >
+		<img src="https://medecine.umontreal.ca/images/timbres/prix_excellence.gif" width="200" height="50" alt="">      
+	</a>
+
+
+	
+	<a href="http://fesp.umontreal.ca/activites/activite/news/eventDetail/Event/ma-these-en-180-secondes/"  >
+		<img src="https://medecine.umontreal.ca/images/timbres/180_sec.png" width="200" height="50" alt="">      
+	</a>
+	
+	
+	<a href="https://admission.umontreal.ca/evenement/presentation/portes-ouvertes-a-ludem-28-janvier-2018-14685/"  >
+		<img src="https://medecine.umontreal.ca/images/timbres/Medecine_200X50.jpg" width="200" height="50" alt="">      
+	</a>
+	
+	
+	<a href="http://www.ahc.umontreal.ca/paniers_noel/" >
+		<img src="https://medecine.umontreal.ca/images/timbres/panier_noel_2017.png" width="200" height="50" alt="">      
+	</a>
+	
+	
+
+	
+	<a href="https://admission.umontreal.ca/evenement/presentation/portes-ouvertes-a-ludem-12-novembre-2017-14682/">
+		<img src="https://medecine.umontreal.ca/images/timbres/Medecine_200X50.jpg" width="200" height="50" alt="">      
+	</a>
+
+	
+	<a href="https://admission.umontreal.ca/index.php?id=345&no_cache=1?utm_source=Sites%20des%20unités&utm_medium=referral&utm_content=Encore%20temps%20automne%202017&utm_campaign=Toujours%20temps&reference=Toujours%20temps">
+		<img src="https://medecine.umontreal.ca/images/timbres/admission_automne_2017_2.jpg" width="200" height="50" alt="">      
+	</a>
+	
+	
+	<a href="https://admission.umontreal.ca/cycles-superieurs-ouverts-hiver-2018">
+		<img src="https://medecine.umontreal.ca/images/timbres/cycles_superieurs.jpg" width="200" height="50" alt="">      
+	</a>
+			
+	
+	<a href="https://medecine.umontreal.ca/communaute/les-etudiants/collations-grades-faculte-medecine/">
+		<img src="https://medecine.umontreal.ca/images/timbres/collations_2017.jpg" width="200" height="50" alt="">      
+	</a>
+	
+	<a href="https://identification.umontreal.ca/cas/login.ashx?service=https%3a%2f%2fumontreal.omnivox.ca%2fintr%2fModule%2fIdentification%2fLogin%2fLogin_ClientUDM.aspx%3fReturnUrl%3d%2fintr%26omnivox%3dtrue">
+		<img src="https://medecine.umontreal.ca/images/timbres/evaluez.png" width="200" height="50" alt="">      
+	</a>
+
+	<a href="https://medecine.umontreal.ca/faculte/developpement-et-philanthropie/fonds-impact/">
+		<img src="https://medecine.umontreal.ca/images/timbres/MJD_200x50_Med.jpg" width="200" height="50" alt="">      
+	</a>	
+	
+-->
+</div>			</div><!--end container-->
+	</div>	
+
+	<div class='container_wrap frontpage' id='frontpage-bottom-square'>
+			<div class='container'>			
+					<div class="line second">		
+							<div class="one-third first "><div class="bloc  ">
+<p><a href="https://pediatrie.umontreal.ca/ressources/pour-les-parents/"><img src="https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/pour-familles1.jpg" alt="pour-familles" width="295" height="200" class="alignnone size-full wp-image-2514" /></a></p>
+<div class="contenu content noLightbox"><div class="bloc-name">
+<p><a href="https://pediatrie.umontreal.ca/ressources/pour-les-parents/">Pédiatrie pour les parents</a></p>
+</div></div>
+</div></div>
+<div class="one-third  "><div class="bloc  ">
+<p><a href="https://pediatrie.umontreal.ca/ressources/pour-les-medecins-pediatres-et-medecins-de-famille/"><img src="https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/pour-medecins1.jpg" alt="pour-medecins" width="295" height="200" class="alignnone size-full wp-image-2510" /></a></p>
+<div class="contenu content noLightbox"><div class="bloc-name">
+<p><a href="https://pediatrie.umontreal.ca/ressources/pour-les-medecins-pediatres-et-medecins-de-famille/">Pédiatrie pour les médecins</a></p>
+</div></div>
+</div></div>
+<div class="one-third  "><div class="bloc  ">
+<p><a href="https://medecine.umontreal.ca/recherche/les-chercheurs-de-la-faculte/portraits-chercheurs/luis-barreiro-bonne-voie/"><img src="https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/portrait-de-chercheur.jpg" alt="portrait-de-chercheur" width="295" height="204" class="alignnone size-full wp-image-4290" srcset="https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/portrait-de-chercheur.jpg 295w, https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/portrait-de-chercheur-200x138.jpg 200w, https://pediatrie.umontreal.ca/wp-content/uploads/sites/22/portrait-de-chercheur-198x137.jpg 198w" sizes="(max-width: 295px) 100vw, 295px" /></a></p>
+</div></div>
+<p>&nbsp;</p>
+										
+					</div>		
+			</div><!--end container-->
+	</div>	
+
+			
+
+			
+		<div id="footer">	
+				<!-- ####### FOOTER CONTAINER ####### -->
+				<div class='container_wrap' id='custom-footer'>
+					<div class='container'>
+					
+						<div class="one-fourth first "></div><div class="one-fourth"></div><div class="one-fourth"></div><div class="one-fourth"></div>						
+					</div>					
+				</div>
+			<!-- ####### END FOOTER CONTAINER ####### -->
+							<div class='container_wrap' id='departements-footer'>
+					
+					<div class='container'>
+					<h2>La Faculté de médecine</h2>	
+							
+									
+						<div class="block-name">Départements</div>		
+						<div class="row">
+							<div class="one-half first">		
+								<a href="https://anesthesiologie.umontreal.ca/">Anesthésiologie et de médecine de la douleur</a>
+								<a href="https://biochimie.umontreal.ca">Biochimie et médecine moléculaire</a>
+								<a href="https://chirurgie.umontreal.ca">Chirurgie</a>
+								<a href="https://deptmed.umontreal.ca">Médecine</a>	
+								<a href="https://medfam.umontreal.ca">Médecine de famille et de médecine d’urgence</a>
+								<a href="https://microbiologie.umontreal.ca">Microbiologie, infectiologie et immunologie</a>	
+								<a href="https://neurosciences.umontreal.ca/">Neurosciences</a>
+								<a href="https://nutrition.umontreal.ca">Nutrition</a>																						
+							</div>			
+							<div class="one-half">
+							
+								<a href="https://deptobsgyn.umontreal.ca/">Obstétrique-gynécologie</a>	
+								<a href="https://ophtalmologie.umontreal.ca/">Ophtalmologie</a>
+								<a href="https://pathologie.umontreal.ca/">Pathologie et biologie cellulaire</a>								
+								<a href="https://pharmacologie-physiologie.umontreal.ca">Pharmacologie et physiologie</a>											
+								<a href="https://pediatrie.umontreal.ca/">Pédiatrie</a>	
+								<a href="https://psychiatrie.umontreal.ca">Psychiatrie et d’addictologie</a>
+								<a href="https://radiologie.umontreal.ca">Radiologie, radio-oncologie et médecine nucléaire</a>									
+							</div>	
+							
+						</div>	
+						<div class="row bottom">			
+							<div class="one-half first">
+								<div class="block-name">Écoles</div>		
+								
+								
+								<a href="https://eksap.umontreal.ca"> Kinésiologie et des sciences de l’activité physique</a>
+								<a href="https://eoa.umontreal.ca">Orthophonie et audiologie</a>
+								<a href="https://readaptation.umontreal.ca">Réadaptation</a>												
+					    	</div>					   
+						   <div class="one-half">
+						   	 	<div class="block-name">Directions</div>	
+						   	
+								<a href="https://www.dpcmed.umontreal.ca/">DPC</a>
+								<a href="https://www.cpass.umontreal.ca/">CPASS</a>		
+								<a href="https://ethiqueclinique.umontreal.ca/">Éthique clinique</a>																										
+							</div>	
+
+						</div>	
+					</div>						
+				</div>	
+						<!-- ####### SOCKET CONTAINER ####### -->
+            <div class='container_wrap' id='socket'>
+                <div class='container'>
+
+                    <div class='social-media'><ul class="social_bookmarks"><li class="rss noLightbox"><a title="RSS" href="/feed/">Rss</a></li></ul></div>
+
+                    <div id="footer-menu" class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-3289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3289"><a href="http://www.urgence.umontreal.ca/">Urgence</a></li>
+<li id="menu-item-4217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4217"><a href="http://www.umontreal.ca/vie-privee.html">Vie privée</a></li>
+<li id="menu-item-4218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4218"><a href="http://outlook.umontreal.ca/">Mon courriel</a></li>
+<li id="menu-item-3292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3292"><a href="http://studium.umontreal.ca/">Studium</a></li>
+<li id="menu-item-4220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4220"><a href="http://itunesu.umontreal.ca/">iTunes U</a></li>
+</ul></div>                </div>
+            </div>
+
+		</div><!-- ####### END FOOTER ####### -->	
+	</div><!-- end wrap_all -->	
+
+<div id="responsive-menu-pro-header">
+    <div id="responsive-menu-pro-header-bar-items-container">
+                                                                                    <div id="responsive-menu-pro-header-bar-title" class="responsive-menu-pro-header-bar-item responsive-menu-pro-header-box">
+
+    
+    
+
+    
+</div>                                                                    <div id="responsive-menu-pro-header-bar-html" class="responsive-menu-pro-header-bar-item responsive-menu-pro-header-box">
+    
+</div>                        </div>
+</div>
+    <div id="responsive-menu-pro-header-bar-button" class="responsive-menu-pro-header-box">
+
+<button id="responsive-menu-pro-button" tabindex="1"
+        class="responsive-menu-pro-button responsive-menu-pro-boring
+                 responsive-menu-pro-accessible"
+        type="button"
+        aria-label="Menu">
+
+    
+    <span class="responsive-menu-pro-box">
+        <span class="responsive-menu-pro-inner"></span>
+    </span>
+
+    </button>
+
+    </div>
+<div id="responsive-menu-pro-container" class=" slide-left">
+    <div id="responsive-menu-pro-wrapper" role="navigation" aria-label="main">
+                                                                                    <ul id="responsive-menu-pro" role="menubar" aria-label="main" ><li id="responsive-menu-pro-item-4282" class="accueil menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4203 current_page_item responsive-menu-pro-item responsive-menu-pro-current-item" role="none"><a href="https://pediatrie.umontreal.ca/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Accueil</a></li><li id="responsive-menu-pro-item-4225" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://pediatrie.umontreal.ca/etudes/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Études<div class="responsive-menu-pro-subarrow">▼</div></a><ul aria-label='Études' role='menu' data-depth='2' class='responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1'><li id="responsive-menu-pro-item-4229" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/etudes/externat/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Externat</a></li><li id="responsive-menu-pro-item-4234" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/etudes/residence-en-medecine-familiale/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Résidence en médecine familiale</a></li><li id="responsive-menu-pro-item-4233" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/etudes/programmes-de-residences/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Programmes de résidences</a></li><li id="responsive-menu-pro-item-4232" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/etudes/formation-continue/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Formation continue</a></li><li id="responsive-menu-pro-item-4231" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://pediatrie.umontreal.ca/etudes/etudiants-etrangers/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Étudiants internationaux<div class="responsive-menu-pro-subarrow">▼</div></a><ul aria-label='Étudiants internationaux' role='menu' data-depth='3' class='responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2'><li id="responsive-menu-pro-item-4269" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/etudes/etudiants-etrangers/medecine-sociojuridique-pediatrie-de-la-maltraitance/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Médecine sociojuridique (pédiatrie de la maltraitance)</a></li></ul></li></ul></li><li id="responsive-menu-pro-item-4226" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://pediatrie.umontreal.ca/recherche/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Recherche<div class="responsive-menu-pro-subarrow">▼</div></a><ul aria-label='Recherche' role='menu' data-depth='2' class='responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1'><li id="responsive-menu-pro-item-4242" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/recherche/chercheurs-du-departement/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Chercheurs du département</a></li><li id="responsive-menu-pro-item-4243" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/recherche/axe-de-recherche/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Axe de recherche</a></li><li id="responsive-menu-pro-item-4245" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/recherche/poles-de-recherche/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Pôles de recherche</a></li><li id="responsive-menu-pro-item-4246" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/recherche/bourse/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Bourse</a></li><li id="responsive-menu-pro-item-4249" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/recherche/unite-de-recherche-clinique-appliquee-urca/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Unité de recherche clinique appliquée (URCA)</a></li><li id="responsive-menu-pro-item-6141" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/recherche/chaires-et-fonds/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Chaires et Fonds</a></li></ul></li><li id="responsive-menu-pro-item-4227" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://pediatrie.umontreal.ca/departement/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Département<div class="responsive-menu-pro-subarrow">▼</div></a><ul aria-label='Département' role='menu' data-depth='2' class='responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1'><li id="responsive-menu-pro-item-4253" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/departement/propos/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">À propos</a></li><li id="responsive-menu-pro-item-4259" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/departement/enseignants/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Enseignants</a></li><li id="responsive-menu-pro-item-4260" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/departement/administration-et-personnel/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Administration et personnel</a></li><li id="responsive-menu-pro-item-4250" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/departement/rapports-annuels/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Rapports annuels</a></li><li id="responsive-menu-pro-item-4254" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://pediatrie.umontreal.ca/departement/hopitaux-et-reseaux/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Hôpitaux et réseaux<div class="responsive-menu-pro-subarrow">▼</div></a><ul aria-label='Hôpitaux et réseaux' role='menu' data-depth='3' class='responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-2'><li id="responsive-menu-pro-item-4270" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/departement/hopitaux-et-reseaux/le-chu-sainte-justine/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Le CHU Sainte-Justine</a></li></ul></li></ul></li><li id="responsive-menu-pro-item-4224" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-pro-item responsive-menu-pro-item-has-children" role="none"><a href="https://pediatrie.umontreal.ca/ressources/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Ressources<div class="responsive-menu-pro-subarrow">▼</div></a><ul aria-label='Ressources' role='menu' data-depth='2' class='responsive-menu-pro-submenu responsive-menu-pro-submenu-depth-1'><li id="responsive-menu-pro-item-4262" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/ressources/pour-les-parents/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Pour les parents</a></li><li id="responsive-menu-pro-item-4261" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/ressources/pour-les-medecins-pediatres-et-medecins-de-famille/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Pour les médecins : pédiatres et médecins de famille</a></li></ul></li><li id="responsive-menu-pro-item-4223" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-pro-item" role="none"><a href="https://pediatrie.umontreal.ca/nous-joindre/" class="responsive-menu-pro-item-link" tabindex="1" role="menuitem">Nous joindre</a></li></ul>                                                <div id="responsive-menu-pro-search-box">
+    <form action="https://pediatrie.umontreal.ca" class="responsive-menu-pro-search-form" role="search">
+        <input type="search" name="s" title="Search" tabindex="1"
+               placeholder="Recherche"
+               class="responsive-menu-pro-search-box">
+    </form>
+</div>
+                                                <div id="responsive-menu-pro-additional-content"></div>                        </div>
+</div>
+
+<script type='text/javascript' src='https://pediatrie.umontreal.ca/wp-content/themes/departements/js/departements.js?ver=2.153'></script>
+<script type='text/javascript' src='https://pediatrie.umontreal.ca/wp-content/themes/departements/js/plugins/jquery.fancybox.pack.js?ver=2.153'></script>
+<script type='text/javascript' src='https://pediatrie.umontreal.ca/wp-includes/js/wp-embed.min.js?ver=5.2.10'></script>
+ <!-- <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script> -->
+
+</body>
+</html>

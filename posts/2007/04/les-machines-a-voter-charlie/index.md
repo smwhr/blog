@@ -1,0 +1,10 @@
+---
+title: "Les Machines à Voter Charlie"
+date: "2007-04-27"
+---
+
+Imaginons que vous êtes en train de jouer avec votre petite soeur à "_Où Est Charlie_". Votre petite soeur est un peu agacante sur les bords (c'est normal, elle est petite aussi) et surtout, très lente à effectivement trouver notre ami de rayures vêtu. Evidemment, ca fait 3/4h que vous avez trouvé, mais ce serait gâcher le plaisir de cette petite peste que de lui révéler l'endroit où se cache Charlie. Et surtout elle serait capable de piquer une colère folle, ce que vous tenez absolument à éviter à tout prix. Sauf que voilà, cette pimbêche, elle ne veut pas vous croire quand vous dîtes que vous l'avez trouvé ce maudit personnage, et ca vous tape sur les nerfs. Pour résumer, quoi que vous fassiez, vous finirez par avoir envie de l'étrangler.
+
+Sauf si vous allez chercher un grand carton d'une taille plutôt supérieure à celle du livre. Vous y découpez un petit trou. Vous posez le carton sur le livre de telle maniere à ce que seule la tête de notre ami Charlie apparaisse. Prouvant à votre saloperie de petite soeur que vous l'avez trouvé (Charlie) et que c'est une grosse naze. En plus vous ne lui gâchez pas son plaisir puisque derrière le carton, le livre est positionné de manière inconnu, ne donnant aucune indication sur le positionnement de Charlie.
+
+J'aimerais d'une part que l'on m'explique pourquoi on dépense des millions dans des machines à voter électronique quand un vulgaire ordinateur peut faire exactement le même boulot gratuitement ? (on ne me fera pas croire qu'il y a des mairies en France qui ne sont pas équipées d'ordinateurs) Et d'autre part que l'o m'explique aussi pourquoi on pense que les gens sont de parfaits abrutis incapables d'appuyer sur le bouton de leur choix... Et je ne demande même pas pourquoi lesdites machines à voter n'impriment pas de bulletin à mettre dans une urne en cas de litige... Parce que je connais la réponse : ca couterait plus cher d'y penser (donc peut-être que la plausibilité de la bêtise humaine écartée dans la seconde question est somme toute avérée...).

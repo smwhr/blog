@@ -1,0 +1,22 @@
+---
+title: "Joies administratives"
+date: "2007-06-29"
+---
+
+Je suis actuellement en train de remplir un dossier pour rentrer en M2. La sélection, toussa, pour que le monde de la recherche ne possède que de bons éléments et que la France soit une nation d'élytres prêtres à s'étirer pour se dorer au soleil ou que sais-je encore.
+
+Je remplis donc mon dossier, et notament ces 8 feuillets où je dois remplir en triple exemplaire mon cursus scolaire depuis l'obtention de mon bac en 2003, et ce, en y incluant le détail des cours suivis et des notes correspondantes... sachant que ledit dossier comporte également une photocopie de tous mes relevés de note de cette époque... sur lesquels apparaissent le détail des cours suivis et les notes correspondantes !
+
+Me rappelant les dires de professeurs de ma connaissance, je me suis dit que c'était ainsi que l'on recrutait les futurs chercheurs francais, à leur capacité à subir l'absurdité de l'administration, tâche qui occupera la majeure partie de leur activité professionelle. Je prends donc mon mal en patience, et je remplis trois dossiers de ce type (je peux maintenant vous annoncer toutes mes notes depuis 2003 par coeur après les avoir recopiées neuf fois) que je dépose à mon université. Fin.
+
+Sauf que non. En effet, je recois hier un email d'une certaine Yolande, me précisant qu'il me manque un "le formulaire de candidature (4 pages) entièrement complété et signé"... hmm... Vous êtes bien gentille, Yolande, mais il est dans mon dossier le feuillet 4 pages... ah mais regardons les petits caractères en bas de page (oui, l'administration envoie des mails avec des .doc attachés)... "à remplir sur le site du MPRI à l'adresse blablabla"... Bon, je me dis que, effectivement, ca je ne l'ai probablement pas fait puisque je n'ai rien rempli sur internet (si l'on excepte le dossier général permettant d'accéder aux formulaires des dossiers spécifiques et qui contient déjà de manière détaillée l'ensemble de mon cursus depuis 2003...), donc je m'exécute une fois encore. Et je constate que sur ce site, on me demande... mon **f\*\*\*ing cursus détaillé depuis 2003** !!!
+
+J'envoie donc un email à Yolande lui disant qu'elle est bien gentille, mais que ca ne sert à rien son truc, et est-ce que c'est obligatoire ? Réponse le jour ouvrable suivant (l'administration a probablement un crédit de un mail par jour par étudiant, parce que ca ne m'étonnerait pas d'apprendre que l'administration paie ses emails à la pièce) : Oui le formulaire est obligatoire. Sur des conseils avisés de vétérans de la chose, je prend alors une respiration profonde et je remplis le formulaire. L'expérience acquise sur le papier ne m'est d'aucune utilité ici, car faire un formulaire plus mal fouttu me semble difficilement envisageable (tenez, il ne tient même pas sur la largeur de la page par exemple). Une petite demi-heure plus tard, je le complète et je m'attends à en avoir finit. QUE NENNI : il vous faut maintenant **imprimer et renvoyer ce formulaire à un secrétariat du MPRI**. Oui, vous avez bien lu, _j'ai rempli en ligne un formulaire en tout point identique à celui qui j'avais rempli sur papier pour me voir demander ensuite de l'envoyer sous forme papier._
+
+N'ayant d'autre choix que de m'éxécuter, je pense joindre une nouvelle lettre de motivation rédigée en ces termes :
+
+"Madame, Monsieur,  
+J'ai constaté que vous recherchiez des administrateurs pour votre département. En effet, en dépit de votre tentative de camoufler cette recherche en appel d'étudiants pour le M2 (probablement parce que le statut actuel de non-autonomie de l'université vous empêche d'engager directement du personel) je pense vous avoir percé à jour. Le simple fait que j'ai réussi à faire parvenir ce dossier sous vos yeux après avoir effectué la copie en multiples exemplaires d'informations inutiles auxquelles vous ne prêterez nullement attention me semble une preuve suffisante de mon goût pour l'absurde et l'auto-flagellation, qualités indispensables à tout agent administratif digne de ce nom. Le ton calme de cette lettre prouve également ma capacité à rester toujours poli en dépit des harcèlements incessant des étudiants à la recherche d'informations (utiles ou non, vous en conviendrez, ce n'est pas notre problème) et à enrober dans de subtiles phrases des faits établis dont tout le monde a déjà connaissance.  
+En espérant que ma candidature retienne votre attention,  
+Je vous pris d'agréer Madame, Monsieur, toute l'expression de mon exaspération la pus grande,  
+J/Z."

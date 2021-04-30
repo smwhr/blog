@@ -1,0 +1,22 @@
+---
+title: "Étrange Séance (contrechamp)"
+date: "2010-03-29"
+---
+
+_Elle : \[Note : les textes intitulés "contrechamp" ne sont pas écris par moi\]_
+
+L'illusion se dissipe. On dirait bien que le jeu s'essouffle. Je fais cela depuis si longtemps, aucun homme n'a jamais été capable de tenir la distance. Je savais que ça ne durerait pas indéfiniment. Je suis trop exigeante et je ne suis pas fair-play. Les règles changent constamment, c'est à celui qui cachera le plus d'as dans sa manche. J'espère juste qu'il tiendra plus longtemps que les autres.
+
+Il me semble que cela fait une bonne heure que je suis plongée dans mes pensées. J'ai l'impression de me réveiller à l'instant où je reprend conscience que je suis entrain de conduire. Mes mains sont toujours fixées au volant, parfaitement à l'horizontale. Les voitures, la route, tout est là et il pleut toujours. J'augmente le volume de l'auto-radio. C'est le même album qui tourne depuis trois heures. Ce n'est pas grave, j'aime bien cette album, surtout la piste 7. Sur le siège passager, mon téléphone. Pas de message. J'attrape une cigarette en guise de lot de consolation.
+
+Je veux tellement, on m'offre trop peu. Il m'intrigue toujours, il sait retarder l'échéance. J'ai cru qu'après le premier contact physique mon personnage perdrait de son éclat. Il est facile de jouer, mentir, tricher. Il l'est beaucoup moins de contrôler ses faits et gestes en permanence. Je ne suis pas capable d'être une autre, autrement que par l'écriture.
+
+Nous avons passé deux soirées ensemble la première fois que je suis venue à Paris. La première ne mérite pas qu'on en enjolive le souvenir, la seconde en revanche est pour moi pleine de promesses.
+
+La soirée débute dans un bar, un irish pub peut être. Nous sommes quatre. Il y a Sébastien, Victor, Lui et moi. Nous sommes là depuis déjà une heure, Sébastien et Victor jouent leur deuxième partie de billard, Victor affiche son ostensible virilité de mâle dominant tandis que Sébastien mise plutôt sur la technique pour remporter la partie. Lui et moi les regardons, amusés. Il y avait encore cette distance entre nous qui n'a pas eu le temps de s'effacer avec la soirée de la veille. Nous sommes encore deux inconnus qui s'apprennent. À chacun de mes gestes, je guette la moinde réaction de sa part afin de détecter quelles mimiques pourraient me servir pour le séduire et lesquelles sont à proscrire. La présence des autres m'empêche tout rapprochement stratégique aussi je me contente d'observer les changements d'expressions sur son visage. Passant de l'adoration, puis à l'indifférence, puis au rire. Et ses mains qui appuient ses mots lorsqu'il me parle, son regard fuyant lorsque j'ose des sous-entendus et sa bouche que j'imagine exquise. J'écoute sa voix plus que ce qu'il me dit. Je suis fascinée par ses intonations et sa façon de prononcer les mots. Il y a quelque chose d'à la fois nasillard et précieux dans sa voix, quelque chose de soutenu.
+
+Victor nous interrompt, décide que nous devons aller voir un film, quelque part. Sébastien est aussi de cet avis. Nous sortons dans la rue. Nous suivons Victor et Sébastien loin devant, qui ne font déjà plus attention à nous. Julien et moi marchons lentement. Je tiens son bras serré contre ma poitrine. il fait froid. Je ne me rappelle pas de ce que nous nous sommes dit pendant le trajet qui nous menait au cinéma, mais je me souviens que j'était heureuse.
+
+Au cinéma, je m'assois entre lui et Sébastien. Le film n'est pas bon. Un thriller japonais dont la majeure partie est constituée de scènes vides et sans intérêt, terminé par quinze minutes de torture barbare en guise d'apothéose. À la première projection de sang j'agrippe son bras. De peur, d'envie ou d'impatience. Je me serre contre lui, la main sur le visage pour ne pas voir la suite. Je sens son odeur et son épaule contre ma joue. J'imagine son cou palpiter, juste là, à quelques centimètres de ma bouche. Je ferme les yeux. J'essaie d'occulter le film, les gens autour nous, la salle de cinéma, la ville entière. Je me concentre sur son odeur et sa main qui glisse dans mes cheveux, descendant parfois sur ma nuque, qui déclenche une vague de frissons le long de mon dos. Je n'ai pas vraiment peur du film, je veux juste rester contre lui. J'ai mis ma main dans la sienne et j'enfouie ma tête dans son cou. J'ai collé mes lèvres sur sa peau, je voudrais qu'il m'embrasse mais la lumière s'est rallumée dans la salle. Le film est fini.
+
+Nous nous sommes quittés à la sortie du cinéma. Le lendemain je suis rentrée chez moi par le premier train.

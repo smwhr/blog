@@ -1,0 +1,18 @@
+---
+title: "Une liste de recommandation"
+date: "2009-06-03"
+---
+
+Imaginez que vous êtes parti dans un pays lointain et que là-bas, vous ayez découvert un petit italien fort sympathique qui fait des spaghettis à la carbonara comme vous n'en avez jamais mangé de votre vie. Et en dessert, un clafouti aux cerises d'une exquise douceur. Ça m'arrive tout le temps.
+
+Comme je suis quelqu'un de généreux, j'aime partager cette information avec le plus grand nombre de gens possible, alors on peut imaginer que j'ai mis une page internet à disposition. Maintenant, je sais que la dernière fois que j'y suis allé, le chef m'avait prévenu que ces deux plats ne seraient disponibles que pour une durée limitée, que c'était justement le concept interessant de son restaurant, les plats n'y sont servis que pour une durée limitée, plus ou moins longue (ça peut aller de quelques jours, à plusieurs mois), un jour vous avez du clafoutis, et le lendemain, sans préavis, c'est blueberry pie pour tout le monde.
+
+La solution la plus simple pour que les infos que je répands soient le plus juste possible consisterait à retourner régulièrement dans ce restaurant pour vérifier que le clafouti et les spaghettis à la carbonara sont toujours servis et toujours aussi délicieux. Sauf qu'évidemment, 1) je n'ai pas les moyens de retourner là-bas suffisament régulièrement, 2) j'ai également envie de découvrir d'autres plats exquis ailleurs et ce serait une perte de temps que de retourner systématiquement au même endroit, 3) j'ai dit que ce genre de situation m'arrivait tout le temps et le nombre de restaurants dans ma liste excède de loin le nombre de repas dans une année.
+
+Comment faire pour que ma liste reste correcte avec haute probabilité ? Il se trouve que mes destinations sont très touristiques, je demande donc à mes amis, visiteurs &c. de me renvoyer un compte-rendu rapide pour savoir si le plat existe toujours. Ils sont nombreux, ça devrait donc suffire.
+
+Et ça suffirait si ils étaient tous honnêtes. Sauf qu'il existe une chance pour qu'ils ne le soient pas. Il y a ceux qui me diront que le plat n'existe plus parce qu'ils sont égoïstes et ne veulent pas que tout le monde ait vent de l'info. Il y a ceux qui diront que le plat existe toujours, pour décrédibiliser ma liste (un conccurent déloyal, un abruti qui a vu de la lumière...). Il y a ceux qui n'ont pas pu y aller parce que le restaurant était fermé le soir où ils avaient prévu d'y dîner. Et ceux qui me renverront le compte-rendu avec six mois de retard, complètement obsolète. Et toute les combinaisons possibles de ceux-là et d'autres auxquels je n'ai pas encore pensé.
+
+Compliqué hein ? Une première piste consiste à leur demander un compte-rendu un peu plus précis des lieux, une description du plat afin d'être sûr d'invalider ceux qui affirmerait que le plat existe toujours alors qu'il a disparu. Mais ça n'empêche pas à un être vile d'aller visiter le restaurant en prenant des tas de photos pour répondre correctement à la question/challenge que je lui poserai des mois plus tard. On peut également imaginer que si le nombre d'avis négatif dépasse le nombre d'avis positifs, je fasse disparaître l'item de ma liste. Mais à partir de combien le rapport devient-il valable alors que dans le cas de l'honnêteté totale de mes visiteurs, c'est le _premier_ vote négatif qui invalide mon item ?
+
+Pour le moment, je me ruine en billets d'avion pour aller tout vérifier le plus rapidement possible mais les chefs des restaurants tout autour du monde me regardent d'un mauvais œil chaque fois que je débarque dans leur salle, que je consulte la carte et que je repars aussitôt sans rien commander...
