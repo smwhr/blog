@@ -31,7 +31,11 @@ module.exports = {
                   resolve = yes;
                 })
 
-                exec(options.path + ` -o "${outputfile}"` + " " +  `"${fullsourcepath}"` , (error, stdout, stderr) => {
+                var command = options.path + ` -o "${outputfile}"` + " " +  `"${fullsourcepath}"`;
+
+                console.log(command)
+
+                exec( command, (error, stdout, stderr) => {
                   if (error) {
                     console.error(`exec error: ${error}`);
                     return;
