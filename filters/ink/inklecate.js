@@ -21,7 +21,10 @@ module.exports = {
                 var inkfile = liquidEngine.evalValue(this.inkfile, scope);
                 var realpath = path.dirname(this.templateFile);
                 var fullsourcepath = `${realpath}/${inkfile}`;
-                var outputfile = path.normalize(`./${options.output}/`+`${realpath}/${inkfile}.json`)
+                var outputpath = path.normalize(`./${options.output}/`+`${realpath}`)
+                var outputfile = `${outputpath}/${inkfile}.json`;
+
+                fs.mkdirSync(outputpath, {recursive: true});
 
                 var resolve;
                 const p = new Promise( (yes) => {
