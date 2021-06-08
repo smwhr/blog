@@ -7,6 +7,9 @@ module.exports = {
     configFunction: function(eleventyConfig, options = {}) {
         if(!options.path) {
           options.path = "inklecate";
+        }
+
+        if(!options.output) {
           options.output = "_site";
         }
 
