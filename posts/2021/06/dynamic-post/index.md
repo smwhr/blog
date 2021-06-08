@@ -6,6 +6,7 @@ eleventyComputed:
   
 categories: 
   - "general"
+  - "experiments"
 ---
 
 Un post dynamique. Écrit avec [ink](https://www.inklestudios.com/ink/).
