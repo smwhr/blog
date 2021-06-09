@@ -15,6 +15,6 @@ Et puis le medium à évoluer. À l'époque, on échangeait par email (et on n'a
 
 Entre temps, j'ai découvert les _tilde community_, des groupes de personnes qui partagent un même serveur dans un but commun. Souvent inspirés de la _low tech_ dans leur design et leur approche. (cette nouvelle mouture du blog est elle-même inspiré de la _low tech_ puisque les fichiers sont entièrement statiques, mais ça s'arrête là puisque le moteur pour le générer, eleventy, est un fatras de non-simplicité). Et notament [cosmic.voyage](https://cosmic.voyage/) dont les contributions m'ont agréablement interpelé.
 
-Je lorgne aussi du côté des _(solo) table-top rpg_ comme [the ground itsefl](https://everestpipkin.itch.io/the-ground-itself) ou [alone among the stars](https://noroadhome.itch.io/alone-among-the-stars) qui à mon sens sont moins des gens que des prompts pour se raconter des histoires entre soi. 
+Je lorgne aussi du côté des _(solo) table-top rpg_ comme [the ground itself](https://everestpipkin.itch.io/the-ground-itself) ou [alone among the stars](https://noroadhome.itch.io/alone-among-the-stars) qui à mon sens sont moins des jeux que des prompts pour se raconter des histoires entre soi. 
 
 J'ai mis longtemps à m'approprier le concept des [pull/merge request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) mais je me demande si cette mécanique ne serait pas une opportunité de laisser les gens raconter des histoires. À voir.
