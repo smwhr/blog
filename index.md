@@ -11,7 +11,7 @@ My name is Julien Zamor.<br>
 On the Internet I'm known as @smwhr.
 </p>
 
-**By day**, I'm a front-end engineer at [cit.io](https://cit.io) improving cities one bus line at a time. But you may know me from [TroisYaourts](https://troisyaourts.com), the company I founded and run from 2014 to 2021 where I used to be the Technical and Creative Director.
+**By day**, I'm a front-end engineer at [cit.io](https://cit.io) improving cities one bus line at a time. But you may know me from [TroisYaourts](https://troisyaourts.com), the company I founded and ran from 2014 to 2021 where I used to be the Technical and Creative Director.
 
 **By night**, I used to watch loads of movies and I've been making [silly, short games](https://smwhr.itch.io), be them narrative, lo-fi or conceptual since 1999.
 
