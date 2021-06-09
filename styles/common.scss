@@ -89,6 +89,16 @@ body {
 }
 
 
+#story.container{
+ .hide { opacity: 0.0;}
+  .invisible { display: none; }
+  &>* {
+    opacity: 1.0;
+    transition: opacity 1.0s;
+  }
+}
+
+
 
 a {
   text-decoration: none;
