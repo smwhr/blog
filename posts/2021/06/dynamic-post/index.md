@@ -2,8 +2,6 @@
 title: "Post dynamique"
 date: "2021-06-08"
 layout: "inkpost.liquid"
-eleventyComputed:
-  
 categories: 
   - "general"
   - "experiments"
