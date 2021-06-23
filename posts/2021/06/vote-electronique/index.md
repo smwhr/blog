@@ -27,5 +27,5 @@ Ma conclusion toute personnelle est :
 Je me prononce donc en _faveur_ du vote électronique à 50.1% avec 0.3 points de marge d'erreur.
 
 
-#### Notes
+##### Notes
 <sup>†</sup> C'est mentionné à la va vite, mais le niveau de sécurité est autant un paramètre essentiel (on ne met pas le même niveau pour l'élection du bureau d'une asso sportive que pour la présidentielle) que le niveau de _confiance que l'on souhaite faire exister au sein de notre Société_ (est-ce que l'on veut vraiment faire se refléter un climat de défiance absolue dans la modalité de vote en utilisant de la _blockchain_, ce qui est pour moi équivalent à encadrer de manière systématique une manif avec des militaires au prétexte qu'il y a peut-être des dissidents révolutionnaires russes dans les rangs des mécontents).
