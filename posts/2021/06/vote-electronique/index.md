@@ -18,6 +18,7 @@ Il y a 3 aspects à discuter dans le passage au vote électronique :
 * **politiquement**, on s'en fout de la science, on a _absolument_ le droit en tant que Société de prendre des libertés et des risques pour être collectivement plus heureux, faut simplement être transparents sur les coûts et externalités(notament subies par les plus faibles)
 * **économiquement**, il ne faut pas fantasmer la faisabilité (supposée facile et/ou difficile) de la mise en place d'un système d'information pour ce faire, sa maintenance et sa pérennité, et le niveau de sécurité <sup>†</sup> qu'on souhaite y associer.
 
+
 Ma conclusion toute personnelle est :
 
 * **mathématiquement** c'est impossible mais on s'en fout, et puis on peut ouvrir une ANR sur le vote electronique (si y en a pas deja une ?) pour relancer ce sujet transversal tech/shs.
