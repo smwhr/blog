@@ -14,9 +14,9 @@ Je copie ici un [thread](https://twitter.com/smwhr/status/1407580766930886657) q
 
 Il y a 3 aspects à discuter dans le passage au vote électronique :
 
-* **mathématiquement**, on _ne sait pas_ reproduire simultanément les 5 propriétés du vote papier. Genre c'est la science. On sait pas. (Y en a qui ont écrit que c'était _impossible_ mais suis pas convaincu)
-* **politiquement**, on s'en fout de la science, on a _absolument_ le droit en tant que Société de prendre des libertés et des risques pour être collectivement plus heureux, faut simplement être transparents sur les coûts (pour les plus faibles)
-* **économiquement**, il ne faut pas fantasmer la faisabilité (supposée facile et/ou difficile) de la mise en place d'un système d'information pour ce faire, sa maintenance et sa pérennité, et le niveau de sécurité qu'on souhaite y associer.
+* **mathématiquement**, on _ne sait pas_ reproduire simultanément les 5 propriétés du vote papier. Genre c'est la science. On sait pas. (Y en a qui ont écrit que c'était _impossible_ mais suis toujours pas convaincu)
+* **politiquement**, on s'en fout de la science, on a _absolument_ le droit en tant que Société de prendre des libertés et des risques pour être collectivement plus heureux, faut simplement être transparents sur les coûts et externalités(notament subies par les plus faibles)
+* **économiquement**, il ne faut pas fantasmer la faisabilité (supposée facile et/ou difficile) de la mise en place d'un système d'information pour ce faire, sa maintenance et sa pérennité, et le niveau de sécurité <sup>†</sup> qu'on souhaite y associer.
 
 Ma conclusion toute personnelle est :
 
@@ -25,3 +25,7 @@ Ma conclusion toute personnelle est :
 * **économiquement** c'est fortement casse-gueule parce qu'on est confronté à trois types de prestataires : les cupides, les incompétents et ceux qui sont les deux à la fois. Et qui va souffrir de ça ? Les plus faibles economiquement (cf caveat du 2)
 
 Je me prononce donc en _faveur_ du vote électronique à 50.1% avec 0.3 points de marge d'erreur.
+
+
+#### Notes
+<sup>†</sup> C'est mentionné à la va vite, mais le niveau de sécurité est autant un paramètre essentiel (on ne met pas le même niveau pour l'élection du bureau d'une asso sportive que pour la présidentielle) que le niveau de _confiance que l'on souhaite faire exister au sein de notre Société_ (est-ce que l'on veut vraiment faire se refléter un climat de défiance absolue dans la modalité de vote en utilisant de la _blockchain_, ce qui est pour moi équivalent à encadrer de manière systématique une manif avec des militaires au prétexte qu'il y a peut-être des dissidents révolutionnaires russes dans les rangs des mécontents).
