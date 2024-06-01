@@ -1,4 +1,9 @@
-# Ligne Sens Direction
+---
+title: "Ligne Sens Direction"
+date: "2024-06-01"
+categories: 
+  - "general"
+---
 
 Ce qui me porte professionellement, si je suis honnête avec moi même, c’est d’une part l’envie de travailler avec des gens chouettes (define chouette) et d’autre part un veritable désir de frime.
 
