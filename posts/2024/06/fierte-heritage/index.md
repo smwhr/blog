@@ -1,4 +1,10 @@
-Fierté / Héritage
+---
+title: "Fierté / Héritage"
+date: "2024-06-05"
+categories: 
+  - "general"
+---
+
 
 Je commence par une décharge : il est chose facile de condamner le capitalisme quand on habite dans un 64m² parisien. Que je loue.
 
