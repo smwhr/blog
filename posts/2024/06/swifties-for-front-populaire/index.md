@@ -7,7 +7,7 @@ categories:
 
 C’est difficile d’être “soi-même” parce qu’il y a ce qu’on dit, il y a le soi qui dit et le soi qu’on voit dans le miroir sur le miroir du bar en face qui te regarde et qui te juge toi même en train de dire ce que tu es toi et que tu ne réalises pas que tu es.
 
-Elles sont quatre à m’avoir independament envoyé des screenshots du hastag naissant #SwiftiesForFrontPopulaire (un “friendship bravelet”, un t-shirt à imprimer soi-même, plus tard une capture de manif, etc), tous suivis de mentions relatives à la reconnaissance de ce qui semble, à leurs yeux constituer la substantifique essence de mon être-moi : “c’est trop un hashtag pour toi” ;  “est-ce qu’on fait plus Julien Zamor core que ça” ; “impossible que ça te plaise pas” et même un “ça m’étonnerait pas que tu sois derrière tout ça”.
+Elles sont quatre à m’avoir independament envoyé des screenshots du hastag naissant #SwiftiesForFrontPopulaire (un “friendship bracelet”, un t-shirt à imprimer soi-même, plus tard une capture de manif, etc), tous suivis de mentions relatives à la reconnaissance de ce qui semble, à leurs yeux, constituer la substantifique essence de mon être-moi : “c’est trop un hashtag pour toi” ; “est-ce qu’on fait plus Julien Zamor core que ça” ; “impossible que ça te plaise pas” et même un “ça m’étonnerait pas que tu sois derrière tout ça”.
 
 Je vis avec la relative mais néanmoins immense culpabilité d’avoir contribué à mettre Emmanuel 1er, notre Jupiter Républicain Tout-Puissant, à la place qu’il occupe actuellement. Je ne peux pas le nier, je ne suis pas du genre à réécrire l’Histoire, surtout pas la mienne et ses écueils, surtout qu’il y a un post qui en parle un peu plus bas.
 
