@@ -6,7 +6,7 @@ module.exports = {
     initArguments: {},
     configFunction: function(eleventyConfig, options = {}) {
         if(!options.path) {
-          options.path = "inklecate";
+          options.path = "npx inkjs";
         }
 
         if(!options.output) {
