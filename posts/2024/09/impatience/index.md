@@ -1,6 +1,6 @@
 ---
 title: "impatience"
-date: "2024-09-16"
+date: "2024-09-19"
 categories: 
   - "general"
 ---
