@@ -30,13 +30,11 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 20
+      - name: Setup Rclone
+        uses: AnimMouse/setup-rclone@v1
+        with:
+          rclone_config: ${{ secrets.RCLONE_CONFIG }}
       - name: install, build
         run: yarn && yarn build
-      - name: S3 bucket listing
-        uses: remyleone/scw-s3-action@v0.0.2
-        with:
-          args: s3 cp _site/ s3://smwhr.net
-        env:
-          SCW_ACCESS_KEY: ${{ secrets.SCW_ACCESS_KEY }}
-          SCW_SECRET_KEY: ${{ secrets.SCW_SECRET_KEY }}
-          SCW_REGION: "fr-par"
+      - run: rclone copy _site/ scaleway:smwhr.net
+          
