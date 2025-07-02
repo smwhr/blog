@@ -1,0 +1,42 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Scaleway
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 20
+      - name: install, build
+        run: yarn && yarn build
+      - name: S3 bucket listing
+        uses: remyleone/scw-s3-action@v0.0.2
+        with:
+          args: s3 cp _site/ s3://smwhr.net
+        env:
+          SCW_ACCESS_KEY: ${{ secrets.SCW_ACCESS_KEY }}
+          SCW_SECRET_KEY: ${{ secrets.SCW_SECRET_KEY }}
+          SCW_REGION: "fr-par"
