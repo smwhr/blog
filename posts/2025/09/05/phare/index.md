@@ -2,7 +2,7 @@
 title: "Bradbury Challenge, Semaine 1"
 date: "2025-09-01"
 categories: 
-  - "games"
+  - "ecriture"
 ---
 
 > Je tente le [Bradbury Challenge de Anthony](https://steady.page/fr/nouvelles-corail/posts/b334e20f-01ad-4e5c-9b9c-d3c32e777c8f), semaine 1
