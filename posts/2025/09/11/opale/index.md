@@ -5,7 +5,7 @@ categories:
   - "ecriture"
 ---
 
-> Je tente le [Bradbury Challenge de Anthony]([https://steady.page/fr/nouvelles-corail/posts/b334e20f-01ad-4e5c-9b9c-d3c32e777c8f](https://steady.page/fr/nouvelles-corail/posts/9d4c18f7-8978-4f1d-acf2-16ab9ac9434c)), semaine 2. J'avoue que cette semaine je n'avais aucune inspiration alors je n'ai pas respecté la "contrainte" et j'ai écrit _un peu n'importe quoi_. Ma contrainte cachée était "action/aventure".
+> Je tente le [Bradbury Challenge de Anthony](https://steady.page/fr/nouvelles-corail/posts/9d4c18f7-8978-4f1d-acf2-16ab9ac9434c), semaine 2. J'avoue que cette semaine je n'avais aucune inspiration alors je n'ai pas respecté la "contrainte" et j'ai écrit _un peu n'importe quoi_. Ma contrainte cachée était "action/aventure".
 
 
 Un rapace traversa l’immensité du ciel bleu au-dessus du pâturage d’herbes crâmées par le soleil. L’horizon se dessinait, rectiligne, à perte de vue. Pas âme qui vive à des kilomètres à la ronde. Maxime Hénaut passa la main sur son front pour assécher la source de la sueur qui coulait à grosses gouttes sur ses paupières. Il fallait avancer, toujours avancer.
