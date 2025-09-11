@@ -5,7 +5,7 @@ categories:
   - "ecriture"
 ---
 
-> Je tente le [Bradbury Challenge de Anthony](https://steady.page/fr/nouvelles-corail/posts/b334e20f-01ad-4e5c-9b9c-d3c32e777c8f), semaine 1
+> Je tente le [Bradbury Challenge de Anthony](https://steady.page/fr/nouvelles-corail/posts/b334e20f-01ad-4e5c-9b9c-d3c32e777c8f), semaine 1. Ma contrainte cachée était "discours indirect libre".
 
 « Et on va où comme ça ? ». Je lui répond qu’on va jusqu’au phare, elle me dit que j’ai quand même un truc pour les phares. J’aurais eu du mal à le nier alors je ne dis rien. Je me retourne, elle est derrière moi et me rend mon sourire. Un rayon de soleil qui a miraculeusement esquivé l’épaisse couche de nuage miroite sur sa chevelure incandescente qui vole au vent, elle repousse une mèche qui barre brièvement ses yeux qui brillent d’un vert lumineux. Saillantes de son visage à la pâleur angélique, ses pommettes sont roses de l’effort d’avoir traversé l’île. 
 
