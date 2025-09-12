@@ -1,5 +1,5 @@
 ---
-title: "Bradbury Challenge, Semaine 1"
+title: "Phare – Bradbury Challenge, Semaine 1"
 date: "2025-09-01"
 categories: 
   - "ecriture"
