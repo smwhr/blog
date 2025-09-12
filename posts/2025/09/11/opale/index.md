@@ -1,5 +1,5 @@
 ---
-title: "Bradbury Challenge, Semaine 2"
+title: "Opale, Bradbury Challenge, Semaine 2"
 date: "2025-09-11"
 categories: 
   - "ecriture"
