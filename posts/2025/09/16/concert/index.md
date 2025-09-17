@@ -76,7 +76,7 @@ categories:
 ---
   
 – Vous voulez le deuxième sac ?  
-– Non, finalement je reviens écouter la fin.  
+– Non, finalement, je reviens pour la fin.  
 – Bonne fin de concert alors !  
 – Vous l’avez écouté ?  
 – Non, c’est pas dans mes moyens…  
@@ -96,7 +96,7 @@ categories:
 – Oui s’il te plaît, tu peux nous laisser ?  
 – T’es sérieuse ?  
 – Oui, je suis sérieuse comme t’étais sérieux au téléphone tout à l’heure en fait.  
-– Je peux vous…  
+– Je peux vous lai…  
 – Non, reste, il s’en va de toute manière. Et ce serait bien qu’il se dépêche. Peut-être qu’il peut faire ses lacets sur le palier le monsieur ?  
 – Ça va, t’es pas obligée de …  
 – Effectivement, je suis obligée de rien, aller, bonne nuit… Et oublie pas tes merdes là.  
