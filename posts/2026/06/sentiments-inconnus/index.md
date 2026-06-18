@@ -6,7 +6,7 @@ categories:
 ---
 
 
-Une des raisons pour lesquelles je ne poste plus ici depuis longtemps (c’est loin d’être la seule, mais je sais pas pourquoi, ça m’a frappé hier), c’est que tous les gens que je lis au quotidien sont manifestement plus malins que moi pour discourir sur l’état du monde, ou en tout cas, qu’ils ne semblent pas être accablés d’un syndrome de l’imposteur quand ils se mettent à débiter leurs opinions sur les réseaux sociaux (je parle essentiellement de [Bluesky](https://bsky.app/profile/smwhr.net), et je suis depuis 2h à nouveau sur ~~Mastodon~~ le [Fediverse](https://mastodon.gamedev.place/deck/@smwhr) et *andiré* que c’est moins le cas). 
+Une des raisons pour lesquelles je ne poste plus ici depuis longtemps (c’est loin d’être la seule, mais je sais pas pourquoi, ça m’a frappé hier), c’est que tous les gens que je lis au quotidien sont manifestement plus malins que moi pour discourir sur l’état du monde, ou en tout cas, qu’ils ne semblent pas être accablés d’un syndrome de l’imposteur quand ils se mettent à débiter leurs opinions sur les réseaux sociaux (je parle essentiellement de [Bluesky](https://bsky.app/profile/smwhr.net), et je suis depuis 2h à nouveau sur ~~Mastodon~~ le [Fediverse](https://mastodon.gamedev.place/@smwhr) et *andiré* que c’est moins le cas). 
 
 Ce que je veux dire, c’est que plus personne parle “de soi”, ou en tout cas quand c’est le cas, c’est toujours une parenthèse au milieu d’autre chose, mais ça reste mal vu car le postulat dominant semble être qu’il faut se poser en démonstrateur objectif de son point de vue.
 

@@ -17,8 +17,6 @@ On the Internet I'm known as @smwhr.
 
 In between, I take care of my two lovely little boys.
 
-You can find me on [bluesky](https://bsky.app/profile/smwhr.net), [itch.io](https://smwhr.itch.io), [github](https://github.com/smwhr), [instagram](https://instagram.com/smwhr_), [linkedin](https://www.linkedin.com/in/julien-zamor-966a9668/), [last.fm](https://last.fm/user/doctorju), browse [my resume](https://ju.smwhr.net) and below are the blogposts (in french) I've written since 2003.
+You can find me on [bluesky](https://bsky.app/profile/smwhr.net), [itch.io](https://smwhr.itch.io), [the fediverse](https://mastodon.gamedev.place/@smwhr), [github](https://github.com/smwhr), [instagram](https://instagram.com/smwhr_), [linkedin](https://www.linkedin.com/in/julien-zamor-966a9668/), [last.fm](https://last.fm/user/doctorju), browse [my resume](https://ju.smwhr.net) and below are the blogposts (in french) I've written since 2003.
 
-<p class="tags">
-French • Millenial • he/him • Paris
-</p>
+<p class="tags">French • Millenial • he/him • Paris</p>
