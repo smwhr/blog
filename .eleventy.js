@@ -10,6 +10,7 @@ module.exports = eleventyConfig => {
 
   eleventyConfig.addPassthroughCopy('assets/fonts');
   eleventyConfig.addPassthroughCopy('assets/scripts');
+  eleventyConfig.addPassthroughCopy({ "assets/favicon": "/" });
   eleventyConfig.setTemplateFormats(["md", "jpg", "png", "gif"]);
   const options = {
     html: true,
