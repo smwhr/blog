@@ -1,4 +1,4 @@
-LIST Answers = Zero=0, Two=2, Four=4, Six=6, Eight=8, Ten=10, Twelve=12, Fourteen=14, Sixteen=16, Eighteen=18, Twenty=20
+LIST Answers = Zero=0, Two=2, Four=4, Six=6, Eight=8, Ten=10, Twelve=12, Fourteen=14, Sixteen=16, Eighteen=18, Twenty=20, TwentyTwo=22, TwentyFour=24
 
 LIST Dice = One, Two, Three, Four, Five, Six
 
@@ -19,7 +19,7 @@ VAR ThrowValue = Zero
 – Les Pétales de la Rose. Et le nom est important.
 
 * – Et si je ne trouve pas ?
-– Même <a href="http://www.borrett.id.au/computing/petals-bg.htm" target="_blank">Bill Gates a trouvé</a>...
+– Même <a href="http:\/\/www.borrett.id.au/computing/petals-bg.htm" target="_blank">Bill Gates a trouvé</a>...
 
 * – C'est parti...
     ->play
@@ -30,7 +30,7 @@ VAR ThrowValue = Zero
 
 ===play
 
-L'homme lance les cinq dés devant vous :
+<em>L'homme {|impassible} lance les cinq dés devant vous.</em>
 ~ThrowText = throw("", 6)
 {ThrowText}
 
@@ -44,12 +44,21 @@ L'homme lance les cinq dés devant vous :
     ->lose->next_round
 
 =next(v)
-Vous dîtes {LIST_VALUE(v)}
+<>
+{strike:
+    -1: <em>Timidement, vous tentez un "{LIST_VALUE(v)} ?".</em>
+    -2: – Je pense que la réponse est {LIST_VALUE(v)}...
+    -3: – Sauf erreur de ma part, ce devrait faire {LIST_VALUE(v)}...
+    -4: <em>La confiance monte en vous, vous affirmez "{LIST_VALUE(v)}".</em>
+    -5: – Il n'y a plus de doute, {LIST_VALUE(v)} !
+        ->END
+}
 
 {v == ThrowValue:
-        
+        <em>L'homme acquiesce.</em>
         ->win->
     -else:
+        <em>L'homme secoue la tête.</em>
         – Dommage, la réponse était {LIST_VALUE(ThrowValue)}.
         ->lose->
 }
@@ -95,7 +104,7 @@ VAR strike = 0
     }
 
 === function img_of(d)
-    <img src="{LIST_VALUE(d)}.jpg" style="width:32px;height:32px;display: inline-block">
+    <img src="{LIST_VALUE(d)}.jpg" style="width:48px;height:48px;display: inline-block">
     // {LIST_VALUE(d)}.jpg
 
 ===function throw(text, n)
